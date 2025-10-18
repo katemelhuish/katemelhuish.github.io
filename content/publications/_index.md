@@ -9,7 +9,7 @@ sections:
       count: 0
       sort_by: "date"
       sort_ascending: false
-      view: "compact"
+      view: "compact"     # cleaner list; relies on title + summary/venue
       search:
         enabled: true
 ---
