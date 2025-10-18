@@ -6,7 +6,8 @@ design:
   spacing: '5rem'
 sections:
 
-  # HERO: bio + tight evaluation pitch
+
+ # HERO: bio + tight evaluation pitch
 - block: resume-biography-3
   content:
     username: admin
@@ -28,6 +29,7 @@ sections:
     avatar:
       size: medium
       shape: circle
+
 
 
 
