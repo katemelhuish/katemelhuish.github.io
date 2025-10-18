@@ -18,18 +18,18 @@ I partner with PIs to design **credible, right-sized evaluation** that supports 
 
 ## Sample Types of Evaluations
 ## Light Evaluation
--**Proposal** Meet with PI team to develop shared understanding of project. Write an evaluation plan to put into the grant proposal.
--**Year 1–N** Evaluation of plans, decisions, and products. **Annual Evaluation Report**  
--**Final Year** Project team meeting **Summative Final Evaluation Report**
+- **Proposal** Meet with PI team to develop shared understanding of project. Write an evaluation plan to put into the grant proposal.
+- **Year 1–N** Evaluation of plans, decisions, and products. **Annual Evaluation Report**  
+- **Final Year** Project team meeting **Summative Final Evaluation Report**
 
 ## Validation of Instrument Focused Evaluation
--**Proposal** Meet with PI team to develop shared understanding of project. Write an evaluation plan including a review of validity evidence and focal validity argument claims.
--**Year 1–N** Guidance on what data to collect; pyschometric analysis of instrument **Annual Evaluation Report** 
--**Final Year** Validity argument report; overall evaluation **Summative Final Evaluation Report**
+- **Proposal** Meet with PI team to develop shared understanding of project. Write an evaluation plan including a review of validity evidence and focal validity argument claims.
+- **Year 1–N** Guidance on what data to collect; pyschometric analysis of instrument **Annual Evaluation Report** 
+- **Final Year** Validity argument report; overall evaluation **Summative Final Evaluation Report**
 
 ## Intervention Efficacy-Focused Evaluation## 
--**Proposal** Meet with PI team to develop shared understanding of project. Write plan for evaluating efficacy of intervention including data collection plan.
--**Year 1–N** Evaluation of intervention fidelity; survey/assessments to key stakeholders and participants; anaysis of collected efficacy data **Annual Evaluation Report**  
--**Final Year**  Report on efficacy of intervention; overall evaluation **Summative Final Evaluation Report**
+- **Proposal** Meet with PI team to develop shared understanding of project. Write plan for evaluating efficacy of intervention including data collection plan.
+- **Year 1–N** Evaluation of intervention fidelity; survey/assessments to key stakeholders and participants; anaysis of collected efficacy data **Annual Evaluation Report**  
+- **Final Year**  Report on efficacy of intervention; overall evaluation **Summative Final Evaluation Report**
 
 **Ready to talk?** [Request a consultation](/contact/) or email **melhuish@txstate.edu**.
