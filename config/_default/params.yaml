@@ -8,6 +8,15 @@ appearance:
   mode: system
   color: indigo
 
+# Pubs
+  publications:
+  import:
+    bibfile: "content/publication/publications.bib"
+  list:
+    group_by: "year"        # or "none"
+    sort_by: "date_desc"    # newest first
+
+
 # SEO
 marketing:
   seo:
