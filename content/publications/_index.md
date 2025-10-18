@@ -1,15 +1,15 @@
 ---
 title: "Publications"
-type: landing
 sections:
   - block: collection
     content:
+      title: "Publications"
+      subtitle: ""
       filters:
-        folders: ["publications"]
+        folder: publications
+      view: list
       count: 0
-      sort_by: "date"
-      sort_ascending: false
-      view: "compact"     # cleaner list; relies on title + summary/venue
-      search:
-        enabled: true
+      show_authors: true
+      show_publication: true
+      show_abstract: true
 ---
