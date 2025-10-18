@@ -7,6 +7,7 @@ design:
 sections:
 
   # HERO: bio + tight evaluation pitch
+
   - block: resume-biography-3
     content:
       username: admin
