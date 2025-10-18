@@ -18,7 +18,7 @@ sections:
         text: Download CV
         url: /uploads/resume.pdf
 
-        Expertise: **validity/modern test theory**, **HLM/GLM** for intervention efficacy, **fidelity of implementation**, **design-based research** in proof courses, and **computational methods** (classification, clustering, NLP).
+       text: | Expertise: **validity/modern test theory**, **HLM/GLM** for intervention efficacy, **fidelity of implementation**, **design-based research** in proof courses, and **computational methods** (classification, clustering, NLP).
       button:
         text: Talk to me about NSF External Evaluation Options 
         url: /evaluation/
