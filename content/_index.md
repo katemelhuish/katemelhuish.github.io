@@ -18,7 +18,7 @@ sections:
         I emphasize methodological rigor, interpretive insight, and meaningful application to teaching and learning in undergraduate mathematics and STEM education contexts.
       button:
         text: Download CV
-        url: /upload/resume.pdf
+        url: /uploads/resume.pdf
       headings:
         about: ''
         education: ''
