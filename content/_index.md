@@ -1,46 +1,68 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-01-01
 type: landing
 
 design:
-  # Default section spacing
   spacing: '6rem'
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
+      text: |
+        I am a **mathematics education professor at Texas State University** with extensive methodological expertise across multiple domains of STEM education research.  
+
+        My work includes **instrument design** (validity argument approaches and modern test theory), **evaluation of interventions and professional development** (hierarchical linear modeling, sensitivity analysis, generalized linear models, and fidelity of implementation), **design-based research** (in proof-related courses), and **computational approaches** such as **classification models**, **cluster analyses**, and **natural language processing**.  
+
+        I emphasize methodological rigor, interpretive insight, and meaningful application to teaching and learning in undergraduate mathematics and STEM education contexts.
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: /uploads/resume.pdf
       headings:
         about: ''
         education: ''
         interests: ''
     design:
-      # Apply a gradient background
       css_class: hbx-bg-gradient
-      # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
+
+  - block: markdown
+    content:
+      title: 'External Evaluation — Approach & Capabilities'
+      text: |-
+        **Principles**
+        - **Utilization-focused**: decision-ready findings for PIs & teams  
+        - **Formative + summative**: rapid feedback and no-surprise annual/final reports  
+        - **Mixed methods**: surveys, observations, interviews, artifacts, admin data  
+        - **Equity-conscious**: participation, experience, and opportunity-to-learn  
+        - **Transparent & collaborative**: shared work plans and open communication  
+
+        **Core capabilities**
+        - Logic models & measurable outcomes  
+        - Fidelity / implementation metrics tailored to interventions  
+        - Instrument development & validation (CTT/IRT, psychometrics, argument-based validity)  
+        - Survey & interview protocols; integrated qualitative + quantitative analysis  
+        - Annual and final evaluation reports aligned to **NSF/IES** expectations  
+
+        I currently serve as the external evaluator on an **NSF-CORE** project.  
+        **Ready to talk?** → [Request a consultation](/contact/) or email **melhuish@txstate.edu**.  
+        Learn more: [Full Evaluation Services »](/evaluation/)
+    design:
+      columns: '1'
+
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        My scholarship spans **proof-based undergraduate mathematics**, **instrument development & validation**, and **instructional practice/implementation**.  
+        Current projects include **proof-language corpora** and frameworks for **authentic disciplinary activity**.  
+        Representative venues: *ESM, JRME, JMB*.
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -52,72 +74,45 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
-      text: ''
       filters:
         folders:
           - publications
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
+
+  - block: markdown
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 👉 Build your own academic website like this
+      title: '🧩 Grant Projects'
       text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
+        I collaborate on and evaluate a range of grant-funded projects focused on improving undergraduate mathematics education, teacher preparation, and STEM pathways.  
 
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
+        **Examples include:**
+        - **NSF CORE Project:** External evaluator supporting research on proof and reasoning in STEM classrooms  
+        - **NSF RUME and EHR projects:** Development of frameworks for quantitative reasoning and proof language  
+        - **Instrument validation initiatives:** Synthesis of validation methodologies across mathematics education  
+        - **Professional development efficacy studies:** Analysis using hierarchical models and sensitivity methods  
 
-        Easily build anything with blocks - no-code required!
+        I welcome collaborations on new proposals and formative evaluation partnerships.  
+        [Contact me →](/contact/)
+    design:
+      columns: '1'
 
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+  - block: cta-card
+    content:
+      title: 'Work with me'
+      text: |-
+        Looking for an external evaluator with strong **measurement** and **advanced quantitative methods** expertise?  
+        Let’s scope an evaluation plan aligned to your solicitation and project goals.
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Request a consultation
+        url: /contact/
     design:
       card:
-        # Card background color (CSS class)
         css_class: 'bg-primary-300'
         css_style: ''
 ---
