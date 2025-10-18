@@ -1,13 +1,13 @@
 ---
-title: Attending to coherence among research questions, methods, and claims in coding
-  studies
+title: Attending to Coherence Among Research Questions, Methods, and Claims in Coding
+  Studies
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Jennifer A Czocher
+- Jennifer A. Czocher
 - Kathleen Melhuish
 
 # Author notes (such as 'Equal Contribution')
@@ -17,7 +17,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.525349Z'
+publishDate: '2025-10-18T21:28:33.272965Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -25,17 +25,20 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal for Research in Mathematics Education*'
+publication: '*JOURNAL FOR RESEARCH IN MATHEMATICS EDUCATION*'
 publication_short: ''
 
-doi: ''
+doi: 10.5951/jresematheduc-2022-0037
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Qualitative research
+- Research methods
+- Research questions
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -68,6 +71,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=59e742a5-4c27-373b-9be4-b30681aabb3b
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

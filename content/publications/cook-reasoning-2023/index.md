@@ -18,7 +18,7 @@ author_notes: []
 date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.518447Z'
+publishDate: '2025-10-18T21:28:33.119252Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -26,17 +26,33 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*The Journal of Mathematical Behavior*'
+publication: '*Journal of Mathematical Behavior*'
 publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'The concept of inverse is threaded throughout K-16 mathematics. Scholars
+  frequently advocate for students to understand the underlying structure: combining
+  an element and its inverse through the binary operations yields the relevant identity
+  element. This ‘coordinated’ way of reasoning is challenging for students to employ;
+  however, little is known about how students might reason en route to developing
+  it. In this study, we analyze a teaching experiment with two beginning abstract
+  algebra students through the lens of three ways of reasoning about inverse: inverse
+  as an undoing, inverse as a manipulated element, and inverse as a coordination of
+  the binary operation, identity, and set. In particular, we examine the implications
+  of these ways of reasoning as students work to develop inverse as a coordination.
+  We identify pedagogical tools and facets of instructional design that appeared to
+  support students’ development of inverse as a coordination. We further suggest that
+  all three ways'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
+- Conceptual analysis
+- Inverse
+- Student reasoning
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -69,6 +85,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=2a06029c-788f-3e3b-aecf-d6d84322f5d3
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

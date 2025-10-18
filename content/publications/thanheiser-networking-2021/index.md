@@ -1,6 +1,6 @@
 ---
-title: 'Networking frameworks: a method for analyzing the complexities of classroom
-  cultures focusing on justifying'
+title: 'Networking Frameworks: A Method for Analyzing the Complexities of Classroom
+  Cultures Focusing on Justifying'
 
 # Authors
 # A YAML list of author names
@@ -20,7 +20,7 @@ author_notes: []
 date: '2021-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.448516Z'
+publishDate: '2025-10-18T21:28:33.176322Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,14 +31,35 @@ publication_types:
 publication: '*Educational Studies in Mathematics*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s10649-021-10026-3
 
-abstract: ''
+abstract: In this paper, we network five frameworks (cognitive demand, lesson cohesion,
+  cognitive engagement, collective argumentation, and student contribution) for an
+  analytic approach that allows us to present a more holistic picture of classrooms
+  which engage students in justifying. We network these frameworks around the edges
+  of the instructional triangle as a means to coordinate them to illustrate the observable
+  relationships among teacher, students(s), and content. We illustrate the potential
+  of integrating these frameworks via analysis of two lessons that, while sharing
+  surface level similarities, are profoundly different when considering the complexities
+  of a classroom focused on justifying. We found that this integrated comparison across
+  all dimensions (rather than focusing on just one or two) was a useful way to compare
+  lessons with respect to a classroom culture that is characterized by students engaging
+  in justifying.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Classroom Environment
+- Cognitive Processes
+- Difficulty Level
+- Learner Engagement
+- Logical Thinking
+- Mathematical Logic
+- Mathematics Instruction
+- Networks
+- Persuasive Discourse
+- Student Participation
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -71,6 +92,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=3b26b811-4d68-3ec2-bdfa-a564b344b05e
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

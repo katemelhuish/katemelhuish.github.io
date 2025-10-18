@@ -1,6 +1,5 @@
 ---
-title: "The efficacy of research-based â\x80\x9Cmathematics for allâ\x80\x9D professional
-  development"
+title: The Efficacy of Research-Based 'Mathematics for All' Professional Development
 
 # Authors
 # A YAML list of author names
@@ -11,7 +10,7 @@ authors:
 - Eva Thanheiser
 - Alexander White
 - Brenda Rosencrans
-- J Michael Shaughnessy
+- J. Michael Shaughnessy
 - Linda Foreman
 - Andrew Riffel
 - Layla Guyot
@@ -23,7 +22,7 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.469278Z'
+publishDate: '2025-10-18T21:28:33.127329Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -34,14 +33,37 @@ publication_types:
 publication: '*Journal for Research in Mathematics Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.5951/jresematheduc-2019-0053
 
-abstract: ''
+abstract: This article contributes to the larger narrative around what makes a mathematics
+  professional development (PD) successful and in what ways. We share a research-based
+  PD model that was implemented in elementary schools in an urban school district
+  for 3 years. The model uses a pseudo lesson study approach and emphasizes standards-based
+  instruction. We found that teachers made gains in knowledge and instruction quality.
+  However, whereas some students saw gains on standardized assessments, this was the
+  case only for students who were not members of historically minoritized groups (Black/Latino),
+  countering our assumptions that the PD would lead to equitable achievement results.
+  We conclude with a discussion of how a colorblind approach to PD may account for
+  the inequitable results.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Achievement Gains
+- Educational Quality
+- Elementary School Students
+- Elementary School Teachers
+- Grade 3
+- Grade 4
+- Grade 5
+- Mathematics Instruction
+- Mathematics Teachers
+- Minority Group Students
+- Professional Development
+- Scores
+- Standardized Tests
+- Urban Schools
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -74,6 +96,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=c8542d17-8206-3b80-8c8a-290205a4546d
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

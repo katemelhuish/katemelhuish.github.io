@@ -18,7 +18,7 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.483380Z'
+publishDate: '2025-10-18T21:28:33.168343Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -26,17 +26,32 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*The Journal of Mathematical Behavior*'
+publication: '*Journal of Mathematical Behavior*'
 publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: Many educators advocate for students to engage in authentic mathematical
+  activity – activity reflective of the discipline. In our respective design studies,
+  we had a common goal of engaging students in authentic mathematical activity in
+  relation to proof. However, we identified a need to better operationalize “authentic”
+  and characterize student activity in relationship to the discipline in the undergraduate
+  proof setting. We introduce the Authentic Mathematical Proof Activity (AMPA) framework
+  as a theoretical tool for researchers interested in taking a multi-dimensional approach
+  to documenting authenticity in students' proof-related activity. The framework provides
+  both a means to deconstruct activity systems in terms of tools and objectives of
+  the professional mathematician community and a set of dimensions (agency, authority,
+  alignment, complexity, variety, and accuracy) to account for differing elements
+  of authenticity related to both student and disciplinary aims.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
+- Advanced undergraduate
+- Authentic mathematical proof activity
+- Disciplinary practice
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -69,6 +84,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=c4b1c176-329f-302e-ba1b-ec79eb340fbc
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

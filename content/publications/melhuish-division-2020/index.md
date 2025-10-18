@@ -1,5 +1,5 @@
 ---
-title: Division is pretty much just multiplication
+title: Division Is Pretty Much Just Multiplication
 
 # Authors
 # A YAML list of author names
@@ -16,7 +16,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.427586Z'
+publishDate: '2025-10-18T21:28:33.225428Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,12 +29,22 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: Within a study of student reasoning in abstract algebra, we encountered
+  the claim
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
+- Algebra
+- Concept Formation
+- Division
+- Elementary Secondary Education
+- Mathematical Concepts
+- Mathematical Logic
+- Mathematics Instruction
+- Multiplication
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -67,6 +77,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=038d21fb-8be0-3304-91e0-3e25fcac058c
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

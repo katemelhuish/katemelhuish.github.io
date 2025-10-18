@@ -9,7 +9,7 @@ title: 'Collegiate mathematics teaching in proof-based courses: What we now know
 authors:
 - Kathleen Melhuish
 - Timothy Fukawa-Connelly
-- Paul C Dawkins
+- Paul C. Dawkins
 - Christian Woods
 - Keith Weber
 
@@ -20,7 +20,7 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.462355Z'
+publishDate: '2025-10-18T21:28:33.184672Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,17 +28,36 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*The Journal of Mathematical Behavior*'
+publication: '*Journal of Mathematical Behavior*'
 publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'There has been significant growth in the literature base exploring questions
+  of teaching in undergraduate mathematics. In this paper we synthesize the literature
+  on the teaching of proof-based undergraduate mathematics, drawing on 104 published
+  reports from a range of countries and research traditions. We primarily differentiate
+  the papers into those which explore lecture-based pedagogy and student-centered
+  pedagogy. For each type of instruction, we focus on three categories of findings
+  from the literature: description of instruction, instructor beliefs and rationales,
+  and the relationship between instruction and students (cognitive, participatory,
+  affective, and equity oriented). Much is known about the enactment of lecture-based
+  teaching, including instructors’ cognitive and affective goals. The student-centered
+  literature focuses on tensions and challenges implementing curricula with a greater
+  focus on participatory goals. Overall, there are few studies that attempt to link
+  instruc'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
+- Advanced mathematics
+- Inquiry
+- Instruction
+- Lecture
+- Proof
+- Teaching
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -71,6 +90,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=a4a03de9-fa1d-3560-8ca1-55b6c65c48c2
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

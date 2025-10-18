@@ -1,6 +1,5 @@
 ---
-title: "Abstract algebra studentsâ\x80\x99 evoked concept images for functions and
-  homomorphisms"
+title: Abstract algebra students’ evoked concept images for functions and homomorphisms
 
 # Authors
 # A YAML list of author names
@@ -9,7 +8,7 @@ title: "Abstract algebra studentsâ\x80\x99 evoked concept images for functions 
 authors:
 - Kathleen Melhuish
 - Kristen Lew
-- Michael D Hicks
+- Michael D. Hicks
 - Sindura Subanemy Kandasamy
 
 # Author notes (such as 'Equal Contribution')
@@ -19,7 +18,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.420630Z'
+publishDate: '2025-10-18T21:28:33.217816Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -27,17 +26,26 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*The Journal of Mathematical Behavior*'
+publication: '*Journal of Mathematical Behavior*'
 publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: Highlights •Abstract Algebra students demonstrate a range of evoked function
+  resources, representations, and examples.•Abstract Algebra students may or may not
+  demonstrate a unified understanding of function and homomorphism.•Abstract Algebra
+  students’ understanding of function can support or constrain their activity related
+  to homomorphism.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
+- Abstract algebra
+- Concept image
+- Function
+- Homomorphism
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -70,6 +78,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=7a48d398-df13-37da-96a2-8663ea207964
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

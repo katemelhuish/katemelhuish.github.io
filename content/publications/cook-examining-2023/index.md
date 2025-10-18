@@ -20,7 +20,7 @@ author_notes: []
 date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.511052Z'
+publishDate: '2025-10-18T21:28:33.111119Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,17 +28,34 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*The Journal of Mathematical Behavior*'
+publication: '*Journal of Mathematical Behavior*'
 publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'Inverse is a critical topic throughout the K–16 mathematics curriculum
+  where students encounter the notion of mathematical inverse across many contexts.
+  The literature base on inverses is substantial, yet context-specific and compartmentalized.
+  That is, extant research examines students’ reasoning with inverses within specific
+  algebraic contexts. It is currently unclear what might be involved in productively
+  reasoning with inverses across algebraic contexts, and whether the specific ways
+  of reasoning from the literature can be abstracted to more general ways of reasoning
+  about inverse. To address this issue, we conducted a standalone literature review
+  to explicate and exemplify three cross-context ways of reasoning that, we hypothesize,
+  can support students’ productive engagement with inverses in a variety of algebraic
+  contexts: inverse as an undoing, inverse as a manipulated element, and inverse as
+  a coordination of the binary operation, identity, and set. Findings also include
+  expli'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
+- Conceptual analysis
+- Inverses
+- Standalone literature review
+- Student reasoning
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -71,6 +88,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=9b4c7ae7-269d-3ffb-87b2-df1e2254f9e6
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

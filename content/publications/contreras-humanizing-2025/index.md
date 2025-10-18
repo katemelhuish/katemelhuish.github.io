@@ -10,11 +10,11 @@ authors:
 - Norman Contreras
 - Paul Christian Dawkins
 - Lino Guajardo
-- Pamela E Harris
+- Pamela E. Harris
 - Kristen Lew
 - Kathleen Melhuish
 - Kyeong Hah Roh
-- Dwight Anderson Williams
+- II, Dwight Anderson Williams
 - Aris Winger
 
 # Author notes (such as 'Equal Contribution')
@@ -23,6 +23,8 @@ author_notes: []
 
 date: '2025-01-01'
 
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2025-10-18T21:28:33.047361Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -33,14 +35,31 @@ publication_types:
 publication: '*Canadian Journal of Science, Mathematics and Technology Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s42330-025-00354-4
 
-abstract: ''
+abstract: The Reading and Appreciating Mathematical Proofs (RAMP) project seeks to
+  provide novel resources for teaching undergraduate introduction to proof courses
+  centered around reading activities. These reading activities include (1) reading
+  rich proofs to learn new mathematics through proofs as well as to learn how to read
+  proofs for understanding and (2) reading mathematician stories to humanize proving
+  and to legitimize challenge and struggle. One of the guiding analogies of the project
+  is thinking about learning proof-based mathematics like learning a genre of literature.
+  We want students to read interesting proofs so they can appreciate what is exciting
+  about the genre and how they can engage with it. Proofs were selected by eight professors
+  in mathematics who as curriculum co-authors collected intriguing mathematical results
+  and added stories of their experience becoming mathematicians. As mathematicians
+  of colour and/or women mathematicians, these co-authors speak to the challenges
+  th
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
+- Diverse representation
+- Humanizing mathematics
+- Mathematical proof
+- Reading to learn
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -73,6 +92,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=882445e9-10cf-37c6-8ef4-0eb227416758
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

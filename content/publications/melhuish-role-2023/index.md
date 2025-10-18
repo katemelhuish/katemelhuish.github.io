@@ -1,6 +1,6 @@
 ---
-title: The role of the partitioning and coset algorithm quotient group partial meanings
-  in comprehending the First Isomorphism Theorem and its proof
+title: The Role of the Partitioning and Coset Algorithm Quotient Group Partial Meanings
+  in Comprehending the First Isomorphism Theorem and Its Proof
 
 # Authors
 # A YAML list of author names
@@ -9,7 +9,7 @@ title: The role of the partitioning and coset algorithm quotient group partial m
 authors:
 - Kathleen Melhuish
 - Lino Guajardo
-- Paul C Dawkins
+- Paul C. Dawkins
 - Holly Zolt
 - Kristen Lew
 
@@ -20,7 +20,7 @@ author_notes: []
 date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.504087Z'
+publishDate: '2025-10-18T21:28:33.095579Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,14 +31,30 @@ publication_types:
 publication: '*Educational Studies in Mathematics*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s10649-023-10207-2
 
-abstract: ''
+abstract: "In many advanced mathematics courses, comprehending theorems and proofs
+  is an essential activity for both students and mathematicians. Such activity requires
+  readers to draw on relevant meanings for the concepts involved; however, the ways
+  that concept meaning may shape comprehension activity is currently undertheorized.
+  In this paper, we share a study of student activity as they work to comprehend the
+  First Isomorphism Theorem and its proof. We analyze, using an onto-semiotic lens,
+  the ways that students' meanings for quotient group both support and constrain their
+  comprehension activity. Furthermore, we suggest that the relationship between understanding
+  concepts and proof comprehension can be reflexive: understanding of concepts not
+  only influences comprehension activity, but engaging with theorems and proofs can
+  serve to support students in generating more sophisticated understanding of the
+  concepts involved."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Algorithms
+- Comprehension
+- Mathematical Concepts
+- Mathematical Logic
+- Semiotics
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -71,6 +87,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=79b4e300-0ce1-3666-b6e2-4a38414cae9e
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

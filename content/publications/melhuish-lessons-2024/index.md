@@ -1,6 +1,6 @@
 ---
-title: Lessons learned about incorporating high-leverage teaching practices in the
-  undergraduate proof classroom to promote authentic and equitable participation
+title: Lessons Learned about Incorporating High-Leverage Teaching Practices in the
+  Undergraduate Proof Classroom to Promote Authentic and Equitable Participation
 
 # Authors
 # A YAML list of author names
@@ -8,9 +8,9 @@ title: Lessons learned about incorporating high-leverage teaching practices in t
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Kathleen Melhuish
-- Paul C Dawkins
+- Paul C. Dawkins
 - Kristen Lew
-- Sharon K Strickland
+- Sharon K. Strickland
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -19,7 +19,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.490258Z'
+publishDate: '2025-10-18T21:28:33.063475Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -30,14 +30,33 @@ publication_types:
 publication: '*International Journal of Research in Undergraduate Mathematics Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s40753-022-00200-0
 
-abstract: ''
+abstract: In recent years, professional organizations in the United States have suggested
+  undergraduate mathematics shift away from pure lecture format. Transitioning to
+  a student-centered class is a complex instructional undertaking especially in the
+  proof-based context. In this paper, we share lessons learned from a design-based
+  research project centering instructional elements as objects of design. We focus
+  on how three high leverage teaching practices (HLTP; established in the K-12 literature)
+  can be adapted to the proof context to promote student engagement in authentic proof
+  activity with attention to issues of access and equity of participation. In general,
+  we found that HLTPs translated well to the proof setting, but required increased
+  attention to navigating between formal and informal mathematics, developing precision
+  around mathematical objects, supporting competencies beyond formal proof construction,
+  and structuring group work. We position this paper as complementary to existing
+  re
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- College Mathematics
+- Mathematical Logic
+- Mathematics Instruction
+- Student Centered Learning
+- Teaching Methods
+- Undergraduate Study
+- Validity
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -70,6 +89,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=181c4b26-b1e9-3ab9-9ff0-17128da502c5
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

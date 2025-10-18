@@ -17,7 +17,7 @@ author_notes: []
 date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.497107Z'
+publishDate: '2025-10-18T21:28:33.151863Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -25,17 +25,37 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*The Journal of Mathematical Behavior*'
+publication: '*Journal of Mathematical Behavior*'
 publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'We compare two lessons with respect to how a teacher centers student mathematical
+  thinking to move instruction forward through enactment of five mathematically productive
+  teaching routines: Conferring To Understand Student Thinking and Reasoning, Structuring
+  Mathematical Student Talk, Working With Selected and Sequenced Student Math Ideas,
+  Working with Public Records of Students’ Mathematical Thinking, and Orchestrating
+  Mathematical Discussion. Findings show that the lessons differ in the enactment
+  of teaching routines, especially Conferring to Understand Student Thinking and Reasoning
+  which resulted in a difference in student-centeredness of the instruction. This
+  difference highlights whose mathematics was being centralized in the classroom and
+  whether the focus was on correct answers and procedures or on students’ mathematical
+  thinking and justifying.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
+- Classroom discourse
+- Conferring
+- Instructional activities and practices
+- Justification
+- Professional development
+- Reasoning and proof
+- Small groups
+- Student-centered mathematics
+- Teaching routines
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -68,6 +88,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=530ca22c-2f35-3c3d-96f4-29c7196502d6
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

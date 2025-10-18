@@ -1,6 +1,6 @@
 ---
-title: 'When students prove a theorem without explicitly using a necessary condition:
-  Digging into a subtle problem from practice'
+title: 'When Students Prove a Theorem without Explicitly Using a Necessary Condition:
+  Digging into a Subtle Problem from Practice'
 
 # Authors
 # A YAML list of author names
@@ -18,7 +18,7 @@ author_notes: []
 date: '2019-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.379114Z'
+publishDate: '2025-10-18T21:28:33.240918Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,14 +29,30 @@ publication_types:
 publication: '*International Journal of Research in Undergraduate Mathematics Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s40753-019-00090-9
 
-abstract: ''
+abstract: 'Over the years, we have noticed our students constructing proofs that commutativity
+  is preserved by isomorphism that do not explicitly use the fact that the isomorphism
+  is surjective. These proofs are typically valid otherwise. However, such proofs
+  are invalid because they would prove the false claim that commutativity is preserved
+  by any homomorphism. This observation from practice raises researchable questions:
+  How common is this phenomenon? What is the nature of this phenomenon and can we
+  explain why students produce this type of argument? In this paper, we report a small-scale
+  two-part survey study and a preliminary interview study designed to begin exploring
+  these questions. Our results suggest that this phenomenon is likely quite common
+  and goes beyond a simple omission of a proof detail. Drawing on the research literature
+  and our follow-up interviews, we propose potential explanations for this phenomenon.
+  Finally, we discuss two different ways to think about supporting students'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Algebra
+- Error Patterns
+- Mathematical Logic
+- Mathematics Instruction
+- Problem Solving
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -69,6 +85,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=8a705b2f-ca6e-31e7-ac2e-1fd4fac7f637
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

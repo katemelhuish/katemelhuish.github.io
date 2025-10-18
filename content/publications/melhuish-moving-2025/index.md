@@ -1,5 +1,5 @@
 ---
-title: Moving Beyond Show and Tell in Proof-Based Courses
+title: Moving beyond show and tell in proof-based courses.
 
 # Authors
 # A YAML list of author names
@@ -7,8 +7,8 @@ title: Moving Beyond Show and Tell in Proof-Based Courses
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Kathleen Melhuish
-- Cody L Patterson
-- Paul C Dawkins
+- Cody L. Patterson
+- Paul C. Dawkins
 - Kristen Lew
 
 # Author notes (such as 'Equal Contribution')
@@ -18,7 +18,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.559825Z'
+publishDate: '2025-10-18T21:28:33.103792Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,14 +29,16 @@ publication_types:
 publication: '*Notices of the American Mathematical Society*'
 publication_short: ''
 
-doi: ''
+doi: 10.1090/noti3072
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Mathematics education – Education and instruction in mathematics – Teaching methods
+  and classroom techniques
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -69,6 +71,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=2050614e-d1fa-3bb5-98c3-c79e1d5a6e8a
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

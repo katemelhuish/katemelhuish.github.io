@@ -1,5 +1,5 @@
 ---
-title: Inquiry and gender inequity in the undergraduate mathematics classroom
+title: Inquiry and Gender Inequity in the Undergraduate Mathematics Classroom
 
 # Authors
 # A YAML list of author names
@@ -20,7 +20,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.400144Z'
+publishDate: '2025-10-18T21:28:33.192971Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,14 +31,32 @@ publication_types:
 publication: '*Journal for Research in Mathematics Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.5951/jresematheduc-2020-0043
 
-abstract: ''
+abstract: 'Our field has generally reached a consensus that active-learning approaches
+  improve student success; however, there is a need to explore the ways that particular
+  instructional approaches affect various student groups. We examined the relationship
+  between gender and student learning outcomes in one context: inquiry-oriented abstract
+  algebra. Using hierarchical linear modeling, we analyzed content assessment data
+  from 522 students. We detected a gender performance difference (with men outperforming
+  women) in the inquiry-oriented classes that was not present in other classes. We
+  take the differential result between men and women to be evidence of gender inequity
+  in our context. In response to these findings, we present avenues for future research
+  on the gendered experiences of students in such classes.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Active Learning
+- Algebra
+- College Mathematics
+- Gender Differences
+- Inquiry
+- Mathematics Achievement
+- Outcomes of Education
+- Teaching Methods
+- Undergraduate Students
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -71,6 +89,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=190284aa-02f3-3f03-9154-fae664df94e4
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

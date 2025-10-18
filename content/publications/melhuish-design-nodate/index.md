@@ -1,56 +1,62 @@
 ---
-title: Adapting the Proof of Lagrange's Theorem into a Sequence of Group-Work Tasks
+title: The Design and Validation of a Group Theory Concept Inventory
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Cody L. Patterson
-- Paul Christian Dawkins
-- Holly Zolt
-- Anthony Tucci
-- Kristen Lew
-- Kathleen Melhuish
+- Kathleen Mary Melhuish
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: -01-01
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T21:28:33.071615Z'
+publishDate: '2025-10-18T21:28:33.288441Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- thesis
 
 # Publication name and optional abbreviated publication name.
-publication: '*PRIMUS*'
+publication: ''
 publication_short: ''
 
-doi: 10.1080/10511970.2024.2361379
+doi: ''
 
-abstract: This article presents an inquiry-oriented lesson for teaching Lagrange's
-  theorem in abstract algebra. This lesson was developed and refined as part of a
-  larger grant project focused on how to
+abstract: 'Within undergraduate mathematics education, there are few validated instruments
+  designed for large-scale usage. The Group Concept Inventory (GCI) was created as
+  an instrument to evaluate student conceptions related to introductory group theory
+  topics. The inventory was created in three phases: domain analysis, question creation,
+  and field-testing. The domain analysis phase included using an expert consensus
+  protocol to arrive at the topics to be assessed, analyzing curriculum, and reviewing
+  literature. From this analysis, items were created, evaluated, and field-tested.
+  First, 383 students answered open-ended versions of the question set. The questions
+  were converted to multiple-choice format from these responses and disseminated to
+  an additional 476 students over two rounds. Through follow-up interviews intended
+  for validation, and test analysis processes, the questions were refined to best
+  target conceptions and strengthen validity measures. The GCI consists of seventeen
+  questions,'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-- ABSTRACT algebra
+- Abstract algebra
 - Algebra
-- ALGEBRA
-- College Mathematics
-- Inquiry
-- Mathematical Logic
-- Mathematics Instruction
-- STUDENT participation
-- Undergraduate Study
-- Validity
+- Group theory
+- Higher Education
+- Mathematical models
+- Mathematics
+- Methodology
+- Research
+- Science and Mathematics Education
+- Study and teaching
+- Study and teaching (Higher)
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -86,7 +92,7 @@ projects: []
 links:
 - name: URL
   url: 
-    https://research.ebsco.com/linkprocessor/plink?id=8f272c42-05c7-34f4-9d4f-4ea40970a6fa
+    https://research.ebsco.com/linkprocessor/plink?id=f3f8644c-73b1-3a7e-91fe-c1896d0e021e
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

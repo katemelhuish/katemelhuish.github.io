@@ -1,6 +1,6 @@
 ---
-title: Leveraging variation of historical number systems to build understanding of
-  the base-ten place-value system
+title: Leveraging Variation of Historical Number Systems to Build Understanding of
+  the Base-Ten Place-Value System
 
 # Authors
 # A YAML list of author names
@@ -17,7 +17,7 @@ author_notes: []
 date: '2019-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.350330Z'
+publishDate: '2025-10-18T21:28:33.249070Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -25,17 +25,36 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*ZDM*'
+publication: '*ZDM: The International Journal on Mathematics Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s11858-018-0984-7
 
-abstract: ''
+abstract: Prospective elementary school teachers (PTs) come to their mathematics courses
+  fluent in using procedures for adding and subtracting multidigit whole numbers,
+  but many are unaware of the essential features inherent in understanding the base-ten
+  place-value system (i.e., grouping, place value, base). Understanding these features
+  is crucial to understanding and teaching number and place value. The research aims
+  of this paper are (1) to present a local instructional theory (LIT), designed to
+  familiarize PTs with these features through comparison with historical number systems
+  and (2) to present the effects of using the LIT in the PT classroom. A theory of
+  learning (variation theory) is paired with a framework related to motivation (intellectual
+  need) to illustrate the mutually supporting roles they may play in mathematical
+  learning and task design. The LIT, a supporting task sequence, and the rationale
+  for task design are shared. This theoretical contribution is then paired with evidence
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Concept Formation
+- Elementary School Teachers
+- Learning Theories
+- Mathematics Instruction
+- Number Concepts
+- Number Systems
+- Preservice Teachers
+- Student Motivation
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -68,6 +87,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=78b1cb7a-1053-3584-9872-9f3591d2975f
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

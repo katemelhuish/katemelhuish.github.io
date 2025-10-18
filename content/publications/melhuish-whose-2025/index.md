@@ -18,7 +18,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.573861Z'
+publishDate: '2025-10-18T21:28:33.055709Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,12 +31,21 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: Mathematics classroom observation protocols are a prevalent way that researchers
+  analyze classrooms for purposes such as identifying quality instruction and evaluating
+  the impact of instructional interventions. These protocols serve to operationalize
+  what counts as quality instruction. However, we have found both in our own scholarship
+  and in the mathematics education field at large, the scholar point of view is emphasized
+  with minimal critical reflection. We suggest that this preserves dominant ideologies
+  that can serve to uphold whiteness in the classroom and allows for racial, gender,
+  and cultural bias in tool use. We make a call for attention to QuantCrit tenants
+  in the design and use of classroom observation protocols.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- ⛔ No DOI found
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -69,6 +78,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=ae9f9d31-5e81-3c7b-b0a5-62c0205c2025
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

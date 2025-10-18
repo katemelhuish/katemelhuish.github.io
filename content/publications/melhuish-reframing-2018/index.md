@@ -1,6 +1,6 @@
 ---
-title: 'Reframing replication studies as studies of generalizability: A response to
-  critiques of the nature and necessity of replication'
+title: 'Reframing Replication Studies as Studies of Generalizability: A Response to
+  Critiques of the Nature and Necessity of Replication'
 
 # Authors
 # A YAML list of author names
@@ -17,7 +17,7 @@ author_notes: []
 date: '2018-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T20:18:50.322060Z'
+publishDate: '2025-10-18T21:28:33.257113Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,14 +28,21 @@ publication_types:
 publication: '*Journal for Research in Mathematics Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.5951/jresematheduc.49.1.0104
 
-abstract: ''
+abstract: The authors present two sets of replication studies and aim to confirm,
+  refute, and expand prior work.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Fidelity
+- Generalizability Theory
+- Relevance (Education)
+- Replication (Evaluation)
+- Research Methodology
+- Scientific Research
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -68,6 +75,10 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: URL
+  url: 
+    https://research.ebsco.com/linkprocessor/plink?id=78f14b79-b851-3143-a8ba-0b2f3596cbb8
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
