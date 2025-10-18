@@ -7,6 +7,7 @@
 title: Kathleen Melhuish, Math Ed Research Evaluation
 # Website URL
 baseURL: "https://katemelhuish.github.io/"
+canonifyURLs: true
 
 ############################
 ## LANGUAGE
