@@ -1,11 +1,6 @@
 ---
 title: Humanizing Proof-based Mathematics Instruction Through Experiences Reading
   Rich Proofs and Mathematician Stories
-
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Norman Contreras
 - Paul Christian Dawkins
@@ -16,27 +11,13 @@ authors:
 - Kyeong Hah Roh
 - II, Dwight Anderson Williams
 - Aris Winger
-
-# Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
-
 date: '2025-01-01'
-
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T21:28:33.047361Z'
-
-# Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+publishDate: '2025-10-18T22:34:22.026983Z'
 publication_types:
 - article-journal
-
-# Publication name and optional abbreviated publication name.
 publication: '*Canadian Journal of Science, Mathematics and Technology Education*'
 publication_short: ''
-
-doi: 10.1007/s42330-025-00354-4
-
 abstract: The Reading and Appreciating Mathematical Proofs (RAMP) project seeks to
   provide novel resources for teaching undergraduate introduction to proof courses
   centered around reading activities. These reading activities include (1) reading
@@ -50,21 +31,14 @@ abstract: The Reading and Appreciating Mathematical Proofs (RAMP) project seeks 
   and added stories of their experience becoming mathematicians. As mathematicians
   of colour and/or women mathematicians, these co-authors speak to the challenges
   th
-
-# Summary. An optional shortened abstract.
 summary: ''
-
 tags:
-- ⛔ No DOI found
+- "\u26D4 No DOI found"
 - Diverse representation
 - Humanizing mathematics
 - Mathematical proof
 - Reading to learn
-
-# Display this page in a list of Featured pages?
 featured: false
-
-# Links
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -73,29 +47,17 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-# Publication image
-# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 links:
 - name: URL
-  url: 
-    https://research.ebsco.com/linkprocessor/plink?id=882445e9-10cf-37c6-8ef4-0eb227416758
+  url: https://research.ebsco.com/linkprocessor/plink?id=882445e9-10cf-37c6-8ef4-0eb227416758
+hugoblox:
+  ids:
+    doi: 10.1007/s42330-025-00354-4
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

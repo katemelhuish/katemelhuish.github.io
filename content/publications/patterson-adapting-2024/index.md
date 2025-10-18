@@ -1,10 +1,5 @@
 ---
 title: Adapting the Proof of Lagrange's Theorem into a Sequence of Group-Work Tasks
-
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Cody L. Patterson
 - Paul Christian Dawkins
@@ -12,34 +7,17 @@ authors:
 - Anthony Tucci
 - Kristen Lew
 - Kathleen Melhuish
-
-# Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
-
 date: '2024-01-01'
-
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T21:28:33.071615Z'
-
-# Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+publishDate: '2025-10-18T22:34:22.051608Z'
 publication_types:
 - article-journal
-
-# Publication name and optional abbreviated publication name.
 publication: '*PRIMUS*'
 publication_short: ''
-
-doi: 10.1080/10511970.2024.2361379
-
 abstract: This article presents an inquiry-oriented lesson for teaching Lagrange's
   theorem in abstract algebra. This lesson was developed and refined as part of a
   larger grant project focused on how to
-
-# Summary. An optional shortened abstract.
 summary: ''
-
 tags:
 - ABSTRACT algebra
 - Algebra
@@ -51,11 +29,7 @@ tags:
 - STUDENT participation
 - Undergraduate Study
 - Validity
-
-# Display this page in a list of Featured pages?
 featured: false
-
-# Links
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -64,29 +38,17 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-# Publication image
-# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 links:
 - name: URL
-  url: 
-    https://research.ebsco.com/linkprocessor/plink?id=8f272c42-05c7-34f4-9d4f-4ea40970a6fa
+  url: https://research.ebsco.com/linkprocessor/plink?id=8f272c42-05c7-34f4-9d4f-4ea40970a6fa
+hugoblox:
+  ids:
+    doi: 10.1080/10511970.2024.2361379
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
