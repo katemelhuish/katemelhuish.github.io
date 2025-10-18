@@ -1,0 +1,21 @@
+{{/* Custom plain-text publication list */}}
+<div class="pub-entry mb-4">
+  <p class="font-semibold text-lg">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </p>
+
+  {{ with .Params.authors }}
+    <p class="text-sm text-gray-700">{{ delimit . ", " }}</p>
+  {{ end }}
+
+  {{ with .Params.publication }}
+    <p class="italic text-sm text-gray-700">{{ . }}</p>
+  {{ end }}
+
+  {{ with .Summary }}
+    <p class="text-sm text-gray-700">
+      {{ . | truncate 300 }} 
+      <a href="{{ .Page.RelPermalink }}">Read more →</a>
+    </p>
+  {{ end }}
+</div>
