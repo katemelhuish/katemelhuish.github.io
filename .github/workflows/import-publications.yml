@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/publication
+          git add content/publications
           git commit -m "Imported publications from BibTeX" || echo "No changes to commit"
           git push
