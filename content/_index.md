@@ -17,8 +17,11 @@ sections:
       button:
         text: Download CV
         url: /uploads/resume.pdf
-
-       text: | Expertise: **validity/modern test theory**, **HLM/GLM** for intervention efficacy, **fidelity of implementation**, **design-based research** in proof courses, and **computational methods** (classification, clustering, NLP).
+  
+  - block: expertise
+          content:
+     text: |
+    Expertise: **validity/modern test theory**, **HLM/GLM** for intervention efficacy, **fidelity of implementation**, **design-based research** in proof courses, and **computational methods** (classification, clustering, NLP).
       button:
         text: Talk to me about NSF External Evaluation Options 
         url: /evaluation/
@@ -31,17 +34,7 @@ sections:
       avatar:
         size: medium
         shape: circle
-    
 
-  # RESEARCH BLURB (short)
-  - block: markdown
-    content:
-      title: 'Research'
-      text: |-
-        I study **proof, language, and instructional practice** in undergraduate mathematics, alongside **instrument development & validation**.  
-        Representative venues: *ESM, JRME, JMB*.
-    design:
-      columns: '1'
 
   # FEATURED PUBS
   - block: collection
