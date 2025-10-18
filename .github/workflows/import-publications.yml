@@ -23,7 +23,7 @@ jobs:
 
       - name: Convert BibTeX to Publication Pages
         run: |
-          academic import --bibtex content/publications/melhuish_publications.bib --publication-dir content/publications --overwrite
+          academic import --bibtex content/publications/publications.bib --publication-dir content/publications --overwrite
 
       - name: Commit changes
         run: |
