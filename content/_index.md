@@ -10,24 +10,24 @@ design:
 
 sections:
   - block: resume-biography-3
-    content:
-      username: admin
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: 
-        interests: ''
-      text: |-
-        I am a mathematics education professor at Texas State University...
-    design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
-      # Avatar customization
-      avatar:
-        size: medium # small | medium | large | xl | xxl
-        shape: circle  # circle | square | rounded
+  content:
+    username: admin
+    # Omit `headings` entirely if you don't want labels
+    # headings:
+    #   about: 'About'
+    #   education: 'Education'
+    #   interests: 'Interests'
+    button:
+      text: Download CV
+      url: uploads/resume.pdf
+    title: 'Expertise'
+    text: |-
+      I am a mathematics education professor at Texas State University...
+  design:
+    css_class: hbx-bg-gradient
+    avatar:
+      size: medium
+      shape: circle
 
   - block: markdown
     design:
