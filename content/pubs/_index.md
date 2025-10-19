@@ -14,7 +14,7 @@ sections:
       group_by: year
       sort_by: date_desc
       show_badges: false
-      show_image: false
+      show_image: true
       show_summary: false
       show_authors: true
       show_publication: true
