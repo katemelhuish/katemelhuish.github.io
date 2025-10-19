@@ -15,6 +15,14 @@ interests:
 # 👇 the avatar file you uploaded into this folder
 avatar: "avatar.jpg"
 
+education:
+  - Mathematics Education PhD
+  - Applied Mathematics MS
+  - Mathematics BS
+  - Data Science Certification
+  - NSF Advanced Quantiative Methods in STEM Ed Fellowship
+  - Teachers Development Group Postdoctoral Research Fellowship
+
 email: "melhuish@txstate.edu"
 
 # Social icons
