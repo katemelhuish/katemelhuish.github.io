@@ -3,15 +3,13 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write     # needed to commit updated files
+  contents: write
 
 jobs:
   import:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -23,18 +21,37 @@ jobs:
           python -m pip install --upgrade pip
           pip install academic
 
-      - name: Import from BibTeX (overwrite existing)
+      - name: Convert BibTeX to Publication Pages
         run: |
-          # adjust the path to your .bib file
-          academic import --bibtex static/publications.bib --overwrite
+          academic import --bibtex content/publications/publications.bib --publication-dir content/publications --overwrite
+     
+      - name: Migrate DOI to HugoBlox schema
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re, yaml
+          root = Path("content/publications")
+          for f in root.rglob("index.md"):
+              txt = f.read_text(encoding="utf-8")
+              m = re.match(r"^---\n(.*?)\n---\n?(.*)$", txt, flags=re.S)
+              if not m:
+                  continue
+              front, body = m.groups()
+              data = yaml.safe_load(front) or {}
+              doi = data.pop("doi", None) or data.pop("DOI", None)
+              if doi:
+                  hb = data.setdefault("hugoblox", {})
+                  ids = hb.setdefault("ids", {})
+                  ids["doi"] = str(doi)
+                  new_front = "---\n" + yaml.safe_dump(data, sort_keys=False).strip() + "\n---\n"
+                  f.write_text(new_front + body, encoding="utf-8")
+                  print("updated", f)
+          PY
 
-      - name: Commit & push changes
+      - name: Commit changes
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          # commit only if there are changes
-          git diff --cached --quiet || git commit -m "chore: update publications from BibTeX (overwrite existing)"
-          # rebase in case there were commits after checkout
-          git pull --rebase
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/publications
+          git commit -m "Imported publications from BibTeX" || echo "No changes to commit"
           git push
