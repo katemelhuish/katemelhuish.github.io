@@ -9,19 +9,19 @@ design:
 
 sections:
   - block: resume-biography-3
-  content:
-    username: admin
-    button:
-      text: Download CV
-      url: uploads/resume.pdf
-    title: "Expertise"
-    text: |-
-      I am a mathematics education professor at Texas State University...
-  design:
-    css_class: hbx-bg-gradient
-    avatar:
-      size: medium
-      shape: circle
+    content:
+      username: admin
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+      title: "Expertise"
+      text: |-
+        I am a mathematics education professor at Texas State University...
+    design:
+      css_class: hbx-bg-gradient
+      avatar:
+        size: medium
+        shape: circle
 
   - block: markdown
     design:
