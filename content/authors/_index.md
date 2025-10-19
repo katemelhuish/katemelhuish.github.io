@@ -1,14 +1,23 @@
 ---
 title: "Kathleen (Kate) Melhuish, PhD"
 role: "Professor of Mathematics Education"
-organization:
-  name: "Texas State University"
+
+# Must be a list:
+organizations:
+  - name: "Texas State University"
+    url: "https://www.txst.edu/"
+
 bio: "Professor of Mathematics at Texas State University. Research on proof, language, and instructional practice; evaluator specializing in instruments, efficacy, and project design"
+
+# Must be an object with area + items (not a flat list of strings):
 interests:
-  - Mathematical proof and reasoning
-  - Computational linguistics and mathematical language
-  - Measurement, validity, and causal inference
-  - Evaluation of STEM education projects
+  - area: "Interests"
+    items:
+      - "Mathematical proof and reasoning"
+      - "Computational linguistics and mathematical language"
+      - "Measurement, validity, and causal inference"
+      - "Evaluation of STEM education projects"
+
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -16,8 +25,11 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-7595-7593
+
 email: "melhuish@txstate.edu"
+
+# Prefer a local image in this folder (fewer CSP/CDN surprises):
+# Place a file like "avatar.jpg" in content/authors/admin/ and reference it:
+# avatar: "avatar.jpg"
 avatar: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=VsNb7f8AAAAJ&citpid=1"
 ---
-
-I completed a **three-year NSF Advanced Quantitative Methods Fellowship** (MSU / UChicago) and hold a **PhD in Mathematics Education**, **MS in Applied Mathematics**, **BS in Mathematics**, and a **Data Science certification**. I lead work on quantiative evaluation of STEM education project efficacy and instrument validation. 
