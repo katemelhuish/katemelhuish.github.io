@@ -17,9 +17,8 @@ sections:
         url: uploads/resume.pdf
       headings:
         about: ''
-        education: ''
+        education: 
         interests: ''
-      title: 'Expertise'
       text: |-
         I am a mathematics education professor at Texas State University...
     design:
