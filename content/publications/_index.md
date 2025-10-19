@@ -1,5 +1,3 @@
-
-
 ---
 title: "Publications"
 type: landing
@@ -20,4 +18,3 @@ sections:
       search:
         enabled: true
 ---
-
