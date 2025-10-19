@@ -29,12 +29,16 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: markdown
     content:
-      title: 'Expertise'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a mathematics education professor at Texas State University. My expertise is in measurement (classical and modern test theory), instrument validation (argumentation approach), advanced quantitative methods (HLM/GLM for intervention efficacy), fidelity of implementation; design-based research in proof courses; and computational methods (classification, clustering, NLP).
-  - block: markdown
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+
+        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
