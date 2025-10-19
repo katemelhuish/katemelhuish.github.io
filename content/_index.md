@@ -31,14 +31,11 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Expertise'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I am a mathematics education professor at Texas State University.
+My expertise is in measurement (classical and modern test theory), instrument validation (argumentation approach), advanced quantitative methods (HLM/GLM for intervention efficacy), fidelity of implementation; design-based research in proof courses; and computational methods (classification, clustering, NLP).
     design:
       columns: '1'
   - block: collection
