@@ -9,7 +9,7 @@ authors:
 - Ruth Heaton
 author_notes: []
 date: '2021-01-01'
-publishDate: '2025-10-18T22:34:22.157584Z'
+publishDate: '2025-10-19T19:48:59.582097Z'
 publication_types:
 - article-journal
 publication: '*Educational Studies in Mathematics*'
@@ -52,9 +52,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=3b26b811-4d68-3ec2-bdfa-a564b344b05e
 hugoblox:
   ids:
     doi: 10.1007/s10649-021-10026-3

@@ -7,7 +7,7 @@ authors:
 - Sindura Subanemy Kandasamy
 author_notes: []
 date: '2020-01-01'
-publishDate: '2025-10-18T22:34:22.263445Z'
+publishDate: '2025-10-19T19:48:59.680209Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Mathematical Education in Science &amp; Technology*'
@@ -43,9 +43,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=899dc507-f4a3-37ba-977d-b50cecef9915
 hugoblox:
   ids:
     doi: 10.1080/0020739X.2019.1634223

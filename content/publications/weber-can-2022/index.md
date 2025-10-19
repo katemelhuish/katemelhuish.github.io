@@ -7,7 +7,7 @@ authors:
 - Kathleen Melhuish
 author_notes: []
 date: '2022-01-01'
-publishDate: '2025-10-18T22:34:22.124901Z'
+publishDate: '2025-10-19T19:48:59.551052Z'
 publication_types:
 - article-journal
 publication: '*Canadian Journal of Science, Mathematics and Technology Education*'
@@ -42,9 +42,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=70b30e8f-1e91-3a98-b6e9-2e57568a24f7
 hugoblox:
   ids:
     doi: 10.1007/s42330-022-00221-6

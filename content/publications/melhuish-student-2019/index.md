@@ -7,7 +7,7 @@ authors:
 - Joshua Fagan
 author_notes: []
 date: '2019-01-01'
-publishDate: '2025-10-18T22:34:22.116580Z'
+publishDate: '2025-10-19T19:48:59.543391Z'
 publication_types:
 - article-journal
 publication: '*Mathematics Teacher Educator*'
@@ -47,9 +47,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=f882e050-7462-325d-818a-72b2ce497fa8
 hugoblox:
   ids:
     doi: 10.5951/mathteaceduc.7.2.0057

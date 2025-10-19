@@ -7,7 +7,7 @@ authors:
 - Samuel Cook
 author_notes: []
 date: '2019-01-01'
-publishDate: '2025-10-18T22:34:22.222539Z'
+publishDate: '2025-10-19T19:48:59.643044Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Research in Undergraduate Mathematics Education*'
@@ -45,9 +45,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=8a705b2f-ca6e-31e7-ac2e-1fd4fac7f637
 hugoblox:
   ids:
     doi: 10.1007/s40753-019-00090-9

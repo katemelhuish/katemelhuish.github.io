@@ -6,7 +6,7 @@ authors:
 - Michael D. Hicks
 author_notes: []
 date: '2020-01-01'
-publishDate: '2025-10-18T22:34:22.190691Z'
+publishDate: '2025-10-19T19:48:59.613347Z'
 publication_types:
 - article-journal
 publication: '*Educational Studies in Mathematics*'
@@ -46,9 +46,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=585155bf-132a-309c-ae49-ee591fd490c0
 hugoblox:
   ids:
     doi: 10.1007/s10649-019-09925-3

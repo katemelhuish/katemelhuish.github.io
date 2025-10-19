@@ -6,7 +6,7 @@ authors:
 - John Paul Cook
 author_notes: []
 date: '2024-01-01'
-publishDate: '2025-10-18T22:34:22.018759Z'
+publishDate: '2025-10-19T19:48:59.452070Z'
 publication_types:
 - article-journal
 publication: '*Educational Studies in Mathematics*'
@@ -44,9 +44,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=e9aadcd3-1b9e-318e-ab53-846bf90f4782
 hugoblox:
   ids:
     doi: 10.1007/s10649-024-10344-2

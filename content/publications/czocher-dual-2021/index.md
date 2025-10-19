@@ -7,7 +7,7 @@ authors:
 - Elizabeth Roan
 author_notes: []
 date: '2021-01-01'
-publishDate: '2025-10-18T22:34:22.141138Z'
+publishDate: '2025-10-19T19:48:59.566665Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Research in Undergraduate Mathematics Education*'
@@ -46,9 +46,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=2975e7b9-96da-35cc-9100-b793198301ce
 hugoblox:
   ids:
     doi: 10.1007/s40753-020-00124-7

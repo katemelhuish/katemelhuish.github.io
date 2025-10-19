@@ -16,7 +16,7 @@ author_notes: []
 date: '2019-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T22:34:22.214442Z'
+publishDate: '2025-10-19T19:48:59.635555Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -81,10 +81,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: 
-    https://research.ebsco.com/linkprocessor/plink?id=d385ccc8-e3cd-3e13-a9d4-5bc364d1eb0d
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

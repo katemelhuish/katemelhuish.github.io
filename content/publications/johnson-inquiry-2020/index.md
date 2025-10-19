@@ -9,7 +9,7 @@ authors:
 - Nicholas Fortune
 author_notes: []
 date: '2020-01-01'
-publishDate: '2025-10-18T22:34:22.174098Z'
+publishDate: '2025-10-19T19:48:59.597851Z'
 publication_types:
 - article-journal
 publication: '*Journal for Research in Mathematics Education*'
@@ -49,9 +49,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=190284aa-02f3-3f03-9154-fae664df94e4
 hugoblox:
   ids:
     doi: 10.5951/jresematheduc-2020-0043

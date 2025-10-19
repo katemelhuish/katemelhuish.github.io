@@ -4,7 +4,7 @@ authors:
 - Kathleen Melhuish
 author_notes: []
 date: '2018-01-01'
-publishDate: '2025-10-18T22:34:22.247247Z'
+publishDate: '2025-10-19T19:48:59.665437Z'
 publication_types:
 - article-journal
 publication: '*Journal for Research in Mathematics Education*'
@@ -55,9 +55,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=495f0e0c-2c9b-36ef-8510-2b3fdb0bcbb6
 hugoblox:
   ids:
     doi: 10.5951/jresematheduc.49.1.0009

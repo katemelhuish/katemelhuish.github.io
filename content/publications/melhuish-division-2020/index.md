@@ -16,7 +16,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-10-18T22:34:22.206782Z'
+publishDate: '2025-10-19T19:48:59.628476Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +36,6 @@ abstract: Within a study of student reasoning in abstract algebra, we encountere
 summary: ''
 
 tags:
-- ⛔ No DOI found
 - Algebra
 - Concept Formation
 - Division
@@ -77,10 +76,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: 
-    https://research.ebsco.com/linkprocessor/plink?id=038d21fb-8be0-3304-91e0-3e25fcac058c
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

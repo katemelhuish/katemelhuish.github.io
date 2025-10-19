@@ -7,7 +7,7 @@ authors:
 - Eva Thanheiser
 author_notes: []
 date: '2015-01-01'
-publishDate: '2025-10-18T22:34:21.958546Z'
+publishDate: '2025-10-19T19:48:59.393518Z'
 publication_types:
 - article-journal
 publication: '*Mathematics Teacher Educator*'

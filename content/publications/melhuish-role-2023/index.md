@@ -9,7 +9,7 @@ authors:
 - Kristen Lew
 author_notes: []
 date: '2023-01-01'
-publishDate: '2025-10-18T22:34:22.075880Z'
+publishDate: '2025-10-19T19:48:59.505226Z'
 publication_types:
 - article-journal
 publication: '*Educational Studies in Mathematics*'
@@ -47,9 +47,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=79b4e300-0ce1-3666-b6e2-4a38414cae9e
 hugoblox:
   ids:
     doi: 10.1007/s10649-023-10207-2

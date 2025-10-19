@@ -13,7 +13,7 @@ authors:
 - Aris Winger
 author_notes: []
 date: '2025-01-01'
-publishDate: '2025-10-18T22:34:22.026983Z'
+publishDate: '2025-10-19T19:48:59.459650Z'
 publication_types:
 - article-journal
 publication: '*Canadian Journal of Science, Mathematics and Technology Education*'
@@ -33,7 +33,6 @@ abstract: The Reading and Appreciating Mathematical Proofs (RAMP) project seeks 
   th
 summary: ''
 tags:
-- "\u26D4 No DOI found"
 - Diverse representation
 - Humanizing mathematics
 - Mathematical proof
@@ -52,9 +51,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=882445e9-10cf-37c6-8ef4-0eb227416758
 hugoblox:
   ids:
     doi: 10.1007/s42330-025-00354-4

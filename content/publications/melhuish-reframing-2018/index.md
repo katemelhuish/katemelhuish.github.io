@@ -6,7 +6,7 @@ authors:
 - Eva Thanheiser
 author_notes: []
 date: '2018-01-01'
-publishDate: '2025-10-18T22:34:22.239601Z'
+publishDate: '2025-10-19T19:48:59.658389Z'
 publication_types:
 - article-journal
 publication: '*Journal for Research in Mathematics Education*'
@@ -35,9 +35,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=78f14b79-b851-3143-a8ba-0b2f3596cbb8
 hugoblox:
   ids:
     doi: 10.5951/jresematheduc.49.1.0104

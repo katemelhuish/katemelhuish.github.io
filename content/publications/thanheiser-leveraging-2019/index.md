@@ -6,7 +6,7 @@ authors:
 - Kathleen Melhuish
 author_notes: []
 date: '2019-01-01'
-publishDate: '2025-10-18T22:34:22.231249Z'
+publishDate: '2025-10-19T19:48:59.650707Z'
 publication_types:
 - article-journal
 publication: '*ZDM: The International Journal on Mathematics Education*'
@@ -47,9 +47,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=78b1cb7a-1053-3584-9872-9f3591d2975f
 hugoblox:
   ids:
     doi: 10.1007/s11858-018-0984-7

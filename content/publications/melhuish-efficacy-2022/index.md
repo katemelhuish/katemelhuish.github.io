@@ -11,7 +11,7 @@ authors:
 - Layla Guyot
 author_notes: []
 date: '2022-01-01'
-publishDate: '2025-10-18T22:34:22.108148Z'
+publishDate: '2025-10-19T19:48:59.535431Z'
 publication_types:
 - article-journal
 publication: '*Journal for Research in Mathematics Education*'
@@ -56,9 +56,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=c8542d17-8206-3b80-8c8a-290205a4546d
 hugoblox:
   ids:
     doi: 10.5951/jresematheduc-2019-0053

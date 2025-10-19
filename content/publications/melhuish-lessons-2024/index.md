@@ -8,7 +8,7 @@ authors:
 - Sharon K. Strickland
 author_notes: []
 date: '2024-01-01'
-publishDate: '2025-10-18T22:34:22.043289Z'
+publishDate: '2025-10-19T19:48:59.474738Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Research in Undergraduate Mathematics Education*'
@@ -49,9 +49,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=181c4b26-b1e9-3ab9-9ff0-17128da502c5
 hugoblox:
   ids:
     doi: 10.1007/s40753-022-00200-0

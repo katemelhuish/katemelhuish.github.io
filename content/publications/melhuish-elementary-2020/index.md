@@ -7,7 +7,7 @@ authors:
 - Layla Guyot
 author_notes: []
 date: '2020-01-01'
-publishDate: '2025-10-18T22:34:22.182385Z'
+publishDate: '2025-10-19T19:48:59.605654Z'
 publication_types:
 - article-journal
 publication: '*Journal of Mathematics Teacher Education*'
@@ -46,9 +46,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=44a677a6-1548-331c-a74a-bc810e45d084
 hugoblox:
   ids:
     doi: 10.1007/s10857-018-9408-4

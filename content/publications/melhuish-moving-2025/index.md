@@ -7,7 +7,7 @@ authors:
 - Kristen Lew
 author_notes: []
 date: '2025-01-01'
-publishDate: '2025-10-18T22:34:22.084265Z'
+publishDate: '2025-10-19T19:48:59.513073Z'
 publication_types:
 - article-journal
 publication: '*Notices of the American Mathematical Society*'
@@ -31,9 +31,6 @@ image:
   focal_point: ''
   preview_only: false
 projects: []
-links:
-- name: URL
-  url: https://research.ebsco.com/linkprocessor/plink?id=2050614e-d1fa-3bb5-98c3-c79e1d5a6e8a
 hugoblox:
   ids:
     doi: 10.1090/noti3072
