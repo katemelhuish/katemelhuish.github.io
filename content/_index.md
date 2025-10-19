@@ -34,8 +34,8 @@ sections:
       title: 'Expertise'
       subtitle: ''
       text: |-
-        I am a mathematics education professor at Texas State University.
-My expertise is in measurement (classical and modern test theory), instrument validation (argumentation approach), advanced quantitative methods (HLM/GLM for intervention efficacy), fidelity of implementation; design-based research in proof courses; and computational methods (classification, clustering, NLP).
+        I am a mathematics education professor at Texas State University. My expertise is in measurement (classical and modern test theory), instrument validation (argumentation approach), advanced quantitative methods (HLM/GLM for intervention efficacy), fidelity of implementation; design-based research in proof courses; and computational methods (classification, clustering, NLP).
+    
     design:
       columns: '1'
   - block: collection
