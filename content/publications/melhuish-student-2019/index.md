@@ -45,7 +45,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 projects: []
 hugoblox:
   ids:
