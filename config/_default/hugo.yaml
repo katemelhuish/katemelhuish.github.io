@@ -21,15 +21,7 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-      - name: Clean Hugo caches & modules
-        run: |
-          rm -rf resources/ .hugo_cache/
-          hugo mod clean
-          hugo mod get -u
-          hugo mod tidy
-
-      - name: Build
-        run: hugo --minify --cleanDestinationDir
+  
 
 build:
   writeStats: true
