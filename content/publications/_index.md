@@ -5,7 +5,7 @@ sections:
   - block: collection
     content:
       filters:
-        folders: ["publications"]
+        folders: [publications]
       count: 0
       sort_by: "date"
       sort_ascending: false
