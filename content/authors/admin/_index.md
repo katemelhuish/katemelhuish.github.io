@@ -42,10 +42,10 @@ profiles:
     url: https://orcid.org/0000-0001-7595-7593
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Math Ed Evaluation
+  - Measurement
+  - Natural Language Processing
+  - Proof
 
 education:
   - area: PhD Mathematics Education
@@ -57,29 +57,32 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: MS Applied Mathematics
+    institution: Western Carolina University
+    date_start: ''
+    date_end: ''
     summary: |
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: BS Mathematics
+    institution: Gwynedd Mercy University
+    date_start: ''
+    date_end: ''
     summary: |
-      GPA: 3.9/4.0
+      GPA: 4.0/4.0
 
       Minored in Mathematics. President of AI Club.
-
+  - area: Data Science Certification
+    institution: Cornell
+  - area: NSF Advanced Quantitative Methods in STEM Ed Fellow
+    institution: UChicago
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Professor of Mathematics Education
+    company_name: Texas State University
+    company_url: 'https://txstate.edu
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: ''
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
@@ -97,15 +100,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: IRT
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: HLM
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Design-Based Research
         description: ''
         percent: 85
         icon: cloud
@@ -160,7 +163,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Kathleen Melhuish is a Professor in the Mathematics Department at Texas State University. She specializes in research in advanced undergraduate mathematics education. Her methodological expertise spans quantitative and qualitative methods.
 
 ---
 
