@@ -1,5 +1,5 @@
 ---
-title: NSF: Orchestrating Discussions Around Proof
+title: NSF: Orchestrating Discussions Around Proof (ODAP)
 date: ''
 links:
   - type: site
@@ -7,9 +7,10 @@ links:
 tags:
   - Abstract Algebra
   - Proof
-  - DesignBased Research
+  - Design-Based Research
 ---
 
-The ODAP project focusd on promoting students in authentic discussion and activity related to proof in abstract algebra.
+The ODAP project focused on promoting students’ authentic discussions and engagement in proof activity within abstract algebra courses.
 
 <!--more-->
+
