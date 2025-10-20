@@ -77,6 +77,7 @@ education:
     institution: Cornell
   - area: NSF Advanced Quantitative Methods in STEM Ed Fellow
     institution: UChicago
+    
 work:
   - position: Professor of Mathematics Education
     company_name: Texas State University
