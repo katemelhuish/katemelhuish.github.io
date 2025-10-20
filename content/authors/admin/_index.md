@@ -75,9 +75,15 @@ education:
       Minored in Mathematics. President of AI Club.
   - area: Data Science Certification
     institution: Cornell
+    date_start: ''
+    date_end: ''
+    summary: |
   - area: NSF Advanced Quantitative Methods in STEM Ed Fellow
     institution: UChicago
-    
+    date_start: ''
+    date_end: ''
+    summary: |
+
 work:
   - position: Professor of Mathematics Education
     company_name: Texas State University
