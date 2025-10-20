@@ -85,7 +85,7 @@ education:
 work:
   - position: Professor of Mathematics Education
     company_name: Texas State University
-    company_url: 'https://txstate.edu
+    company_url: 'https://txstate.edu'
     company_logo: ''
     date_start: ''
     date_end: ''
