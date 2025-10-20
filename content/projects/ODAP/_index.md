@@ -7,7 +7,7 @@ links:
 tags:
   - Abstract Algebra
   - Proof
-  - Design-based Research
+  - DesignBased Research
 ---
 
 The ODAP project focusd on promoting students in authentic discussion and activity related to proof in abstract algebra.
