@@ -1,5 +1,5 @@
 ---
-title: NSF: Orchestrating Discussions Around Proof (ODAP)
+title: "NSF: Orchestrating Discussions Around Proof (ODAP)"
 date: ''
 links:
   - type: site
