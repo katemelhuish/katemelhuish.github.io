@@ -1,0 +1,43 @@
+{{/* Custom citation format for publication lists */}}
+{{- $p := . -}}
+
+<span class="hb-publication">
+
+  {{/* Authors */}}
+  {{ with $p.Params.authors }}
+    {{- delimit . ", " -}}
+  {{ end }}
+
+  {{/* Year */}}
+  {{ with $p.Date }}
+    ({{ .Format "2006" }}).
+  {{ end }}
+
+  {{/* Title */}}
+  {{ with $p.Title }}
+    {{ . }}.
+  {{ end }}
+
+  {{/* Journal / book / container title */}}
+  {{ with $p.Params.publication }}
+    <em>{{ . }}</em>
+  {{ end }}
+
+  {{/* Volume and issue */}}
+  {{ with $p.Params.volume }}
+    , {{ . }}
+    {{ with $p.Params.number }}({{ . }}){{ end }}
+  {{ end }}
+
+  {{/* Pages */}}
+  {{ with $p.Params.pages }}
+    , {{ . }}
+  {{ end }}
+  .
+
+  {{/* DOI as https://doi.org/... link if present */}}
+  {{ with $p.Params.doi }}
+    <a href="https://doi.org/{{ . }}">https://doi.org/{{ . }}</a>
+  {{ end }}
+
+</span>
