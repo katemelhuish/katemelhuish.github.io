@@ -29,18 +29,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: 'My background'
-      subtitle: ''
-      text: |-
-        I am a Professor in the math department at Texas State with a focus on evaluation and quantitative methods.
-
-        My own research primarily focuses on teaching and learning in undergraduate proof-based courses.
-
-        If you are looking for project consulting including external evaluation for NSF grants, please reach out.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
