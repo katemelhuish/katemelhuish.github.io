@@ -13,5 +13,4 @@ links:
     name: Watch Talk
     url: ["https://www.youtube.com/watch?v=iW2iExHbtgo"](https://youtu.be/ECvIRGGpkvQ)
 ---
-
 {{< youtube ECvIRGGpkvQ >}}
