@@ -8,6 +8,9 @@ links:
   - icon: youtube
     name: Watch Talk
     url: https://youtu.be/ECvIRGGpkvQ
+image:
+  filename: https://img.youtube.com/vi/iW2iExHbtgo/hqdefault.jpg
+  preview_only: true
 ---
 
 {{< youtube ECvIRGGpkvQ >}}
