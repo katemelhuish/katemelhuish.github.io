@@ -67,3 +67,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+    hugoblox:
+layout:
+  radius: "md"              # keep corners reasonably rounded
+  spacing: "compact"        # options: compact | comfortable | spacious
+  avatar_shape: circle
+
