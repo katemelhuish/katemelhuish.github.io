@@ -50,7 +50,7 @@ sections:
           - publications
         exclude_featured: false
     design:
-      view: compact
+      view: citations
       spacing:
         padding: ["8px", "0", "6px", "0"]
 ---
