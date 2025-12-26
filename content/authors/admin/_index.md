@@ -67,7 +67,7 @@ education:
     institution: Cornell
     date_start: '2023-08-01'
     date_end: '2023-12-11'
-  - area: NSF Advanced Quantitative Methods in STEM Ed Fellow
+  - area: NSF Advanced Quant Methods Fellow
     institution: UChicago and Michigan State University
     date_start: '2021-06-01'
     date_end: '2023-08-01'
