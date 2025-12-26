@@ -19,13 +19,13 @@ I partner with PIs to design credible, right-sized evaluation that supports cont
 ## Sample Types of Evaluations
 ## Light Evaluation
 - **Proposal** Meet with PI team to develop shared understanding of project. Write an evaluation plan to put into the grant proposal.
-- **Year 1–N** Evaluation of plans, decisions, and products including annual evaluation reports**  
-- **Final Year** Project team meeting and summative final evaluation report**
+- **Year 1–N** Evaluation of plans, decisions, and products including annual evaluation reports.  
+- **Final Year** Project team meeting and summative final evaluation report.
 
 ## Validation of Instrument Focused Evaluation
-- **Proposal** Meet with PI team to develop shared understanding of project. Write an evaluation plan including a review of validity evidence and focal validity argument claims
-- **Year 1–N** Guidance on what data to collect; psychometric analysis of instruments; and products including annual evaluation reports 
-- **Final Year** Validity argument report; overall summative evaluation report
+- **Proposal** Meet with PI team to develop shared understanding of project. Write an evaluation plan including a review of validity evidence and focal validity argument claims.
+- **Year 1–N** Guidance on what data to collect; psychometric analysis of instruments; and products including annual evaluation reports. 
+- **Final Year** Validity argument report; overall summative evaluation report.
 
 ## Intervention Efficacy-Focused Evaluation 
 - **Proposal** Meet with PI team to develop shared understanding of project. Write plan for evaluating efficacy of intervention including data collection plan.
