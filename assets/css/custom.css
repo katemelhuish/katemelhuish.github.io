@@ -1,10 +1,26 @@
-/* test override */
-/* Reduce space under home section titles (like "Recent Publications") */
-.home-section .section-heading {
-  margin-bottom: 1.25rem !important;   /* default is quite a bit larger */
-  padding-bottom: 0 !important;
+/* 1. Reduce vertical padding of the section that contains "Recent Publications" */
+section[id*="publications"],
+section[id*="publication"] {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
 }
 
-.home-section ul li {
-  margin-bottom: 0.5rem;
+/* 2. Reduce space under the "Recent Publications" heading */
+section[id*="publications"] h1,
+section[id*="publication"] h1 {
+  margin-top: 0 !important;
+  margin-bottom: 0.75rem !important;
+}
+
+/* 3. Tighten spacing between individual publication entries */
+section[id*="publications"] li,
+section[id*="publication"] li {
+  margin-bottom: 0.5rem !important;
+}
+
+/* 4. Remove extra gap inside each publication (the text + CITE/DOI row) */
+section[id*="publications"] p,
+section[id*="publication"] p {
+  margin-top: 0.1rem !important;
+  margin-bottom: 0.1rem !important;
 }
