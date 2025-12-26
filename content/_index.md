@@ -30,19 +30,18 @@ sections:
         padding: ["8px", "0", "8px", "0"]
 
   - block: collection
-    id: papers
+    id: talks
     content:
-      title: Featured Publications
+      title: Talks
       filters:
         folders:
-          - publications
-        featured_only: true
+          - events
     design:
       view: article-grid
       columns: "2"
       spacing:
-        padding: ["10px", "0", "6px", "0"]
-
+        padding: ["8px", "0", "8px", "0"]
+    
   - block: collection
     content:
       title: Recent Publications
@@ -55,17 +54,4 @@ sections:
       view: citation
       spacing:
         padding: ["8px", "0", "6px", "0"]
-
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: article-grid
-      columns: "2"
-      spacing:
-        padding: ["8px", "0", "8px", "0"]
 ---
