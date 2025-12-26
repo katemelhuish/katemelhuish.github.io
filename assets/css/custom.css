@@ -1,9 +1,7 @@
 /* test override */
-body::before {
-  content: "✔ custom.css is loaded";
-  position: fixed;
-  top: 1rem;
-  left: 1rem;
-  z-index: 9999;
-  color: red;
+/* Reduce space under home section titles (like "Recent Publications") */
+.home-section .section-heading {
+  margin-bottom: 1.25rem !important;   /* default is quite a bit larger */
+  padding-bottom: 0 !important;
 }
+
