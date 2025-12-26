@@ -10,7 +10,7 @@ sections:
       sort_by: "date"
       sort_ascending: false
       view: "citation"        # ← slim text list, no image slot
-      show_image: true
+      show_image: false
       show_summary: false
       show_authors: true
       show_publication: true
