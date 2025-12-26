@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Mathematics Education
     institution: Texas State University
-    date_start: '2015'
-    date_end: '2010'
+    date_start: '2010'
+    date_end: '2015'
     summary: |
       Thesis on _The design and validation of a group theory concept inventory_. 
     button:
@@ -79,7 +79,7 @@ education:
     date_end: '2023'
 
 work:
-  - position: Professor of Mathematics (Research Area: Mathematics Education)
+  - position: Professor of Mathematics 
     company_name: Texas State University
     company_url: 'https://txstate.edu'
     company_logo: ''
