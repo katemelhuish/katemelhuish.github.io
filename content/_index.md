@@ -58,6 +58,6 @@ sections:
         folders:
           - events
     design:
-      view: card
-      columns: 2
+      view: article-grid
+      columns: '2'
 ---
