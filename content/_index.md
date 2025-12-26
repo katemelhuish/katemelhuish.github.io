@@ -34,11 +34,11 @@ sections:
       title: 'My background'
       subtitle: ''
       text: |-
-        I am a professor in the math department at Texas State.
+        I am a Professor in the math department at Texas State with a focus on evaluation and quantitative methods.
 
-        I am a complete nerd about methods and love joining projects as evaluator or advisor.
+        My own research primarily focuses on teaching and learning in undergraduate proof-based courses.
 
-        Please reach out to collaborate 😃
+        If you are looking for project consulting including external evaluation for NSF grants, please reach out.
     design:
       columns: '1'
   - block: collection
