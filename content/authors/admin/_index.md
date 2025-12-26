@@ -72,11 +72,11 @@ education:
   - area: Data Science Certification
     institution: Cornell
     date_start: ''
-    date_end: '2022'
+    date_end: '2023'
   - area: NSF Advanced Quantitative Methods in STEM Ed Fellow
-    institution: UChicago
-    date_start: ''
-    date_end: ''
+    institution: UChicago and Michigan State University
+    date_start: '2021'
+    date_end: '2023'
 
 work:
   - position: Professor of Mathematics (Research Area: Mathematics Education)
@@ -85,7 +85,7 @@ work:
     company_logo: ''
     date_start: '2016'
     date_end: 'present'
-    summary: |2-
+    summary: |
       Leading research projects on natural language processing and mathematical writing; improving instruction in proof-based courses; analyzing group-work in proof-based courses
   - position: Postdoctoral Research Fellow
     company_name: Teachers Development Group
