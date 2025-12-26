@@ -41,12 +41,6 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7595-7593
 
-interests:
-  - Evaluation
-  - Measurement
-  - Natural Language Processing
-  - Proof
-
 education:
   - area: PhD Mathematics Education
     institution: Texas State University
