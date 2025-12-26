@@ -4,10 +4,6 @@ title: ''
 date: 2022-10-24
 type: landing
 
-design:
-  # Default section spacing
-  spacing: '2rem'
-
 sections:
   - block: resume-biography-3
     content:
@@ -29,6 +25,10 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+      spacing:
+        # top, right, bottom, left
+        padding: ["8px", "0", "8px", "0"]
+
   - block: collection
     id: papers
     content:
@@ -39,7 +39,10 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: "2"
+      spacing:
+        padding: ["10px", "0", "6px", "0"]
+
   - block: collection
     content:
       title: Recent Publications
@@ -50,6 +53,9 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: ["8px", "0", "6px", "0"]
+
   - block: collection
     id: talks
     content:
@@ -59,5 +65,7 @@ sections:
           - events
     design:
       view: article-grid
-      columns: '2'
+      columns: "2"
+      spacing:
+        padding: ["8px", "0", "8px", "0"]
 ---
