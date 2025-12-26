@@ -1,17 +1,22 @@
+
 ---
-title: "NSF: Developing and Validating Proof Comprehension Tests in Real Analysis (ReACT)"
+title: "NSF: Generating a Research-Informed Transition to a Mathematical Proof Curriculum"
 date: ''
 links:
   - type: site
     title: NSF Award
     name: NSF Award
-    url: https://www.nsf.gov/awardsearch/show-award?AWD_ID=1821553
+    url: https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2141925&HistoricalAwards=false
+  - type: site
+    title: Textbook
+    name: Textbook
+    url: https://zenodo.org/records/17868047
 tags:
-  - Proof comprehension
-  - Real analysis
-  - Item Response Theory
+  - Introduction to Proof
+  - Author stories
+  - Humanizing
 ---
 
-The ReACT project involved developing and validating a series of eight proof comprehension tests for real analysis.
+The RAMP project focused on the developing and studying a humanized curriculum for proof-based mathematics.
 
 <!--more-->
