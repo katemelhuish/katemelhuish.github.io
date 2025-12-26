@@ -1,21 +1,60 @@
-{{/* Custom plain-text publication list */}}
-<div class="pub-entry mb-4">
-  <p class="font-semibold text-lg">
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </p>
+{{/* Custom APA-like citation layout for "view: citation" */}}
 
-  {{ with .Params.authors }}
-    <p class="text-sm text-gray-700">{{ delimit . ", " }}</p>
-  {{ end }}
+<li class="hb-publication">
+  {{/* Authors */}}
+  {{- $authors := .Params.authors | default slice -}}
+  {{- if gt (len $authors) 0 -}}
+    <span class="pub-authors">
+      {{- $lastIndex := sub (len $authors) 1 -}}
+      {{- range $i, $a := $authors -}}
+        {{- $name := $a -}}
+        {{- /* Simple name join; assumes you've already formatted names "Last, F. M." in content if you want initials */ -}}
+        {{- if eq $i 0 -}}
+          {{- $name -}}
+        {{- else if lt $i $lastIndex -}}
+          , {{- $name -}}
+        {{- else -}}
+          &amp; {{- $name -}}
+        {{- end -}}
+      {{- end -}}
+    </span>
+    <span class="pub-year">
+      {{- with .Date }} ({{ .Format "2006" }}){{ end }}.
+    </span>
+  {{- else -}}
+    {{- with .Date }}
+      <span class="pub-year">({{ .Format "2006" }}).</span>
+    {{- end -}}
+  {{- end }}
 
-  {{ with .Params.publication }}
-    <p class="italic text-sm text-gray-700">{{ . }}</p>
-  {{ end }}
+  {{/* Title */}}
+  <span class="pub-title">
+    {{ if .Params.url }}
+      <a href="{{ .Params.url }}">{{ .Title }}</a>.
+    {{ else }}
+      {{ .Title }}.
+    {{ end }}
+  </span>
 
-  {{ with .Summary }}
-    <p class="text-sm text-gray-700">
-      {{ . | truncate 300 }} 
-      <a href="{{ .Page.RelPermalink }}">Read more →</a>
-    </p>
-  {{ end }}
-</div>
+  {{/* Journal, volume(issue), pages */}}
+  {{- with .Params.publication }}
+    <span class="pub-journal"> <em>{{ . }}</em></span>
+  {{- end -}}
+
+  {{- with .Params.volume }}
+    <span class="pub-volume">, {{ . }}</span>
+  {{- end -}}
+
+  {{- with .Params.issue }}
+    <span class="pub-issue">({{ . }})</span>
+  {{- end -}}
+
+  {{- with .Params.pages }}
+    <span class="pub-pages">, {{ . }}</span>
+  {{- end -}}.
+
+  {{/* DOI at the end, if present */}}
+  {{- with .Params.doi }}
+    <span class="pub-doi"> https://doi.org/{{ . }}</span>
+  {{- end }}
+</li>
