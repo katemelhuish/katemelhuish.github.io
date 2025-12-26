@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Mathematics Education
     institution: Texas State University
-    date_start: '2010'
-    date_end: '2015'
+    date_start: '2010-08-01'
+    date_end: '2015-07-01'
     summary: |
       Thesis on _The design and validation of a group theory concept inventory_. 
     button:
@@ -59,40 +59,40 @@ education:
       url: 'https://www.proquest.com/docview/1728324512?sourcetype=Dissertations%20&%20Theses'
   - area: MS Applied Mathematics
     institution: Western Carolina University
-    date_start: '2008'
-    date_end: '2010'
+    date_start: '2008-08-01'
+    date_end: '2010-06-01'
     summary: |
       
   - area: BS Mathematics
     institution: Gwynedd Mercy University
-    date_start: '2004'
-    date_end: '2008'
+    date_start: '2004-08-01'
+    date_end: '2007-12-31'
     summary: |
      
   - area: Data Science Certification
     institution: Cornell
-    date_start: ''
-    date_end: '2023'
+    date_start: '2023-08-01'
+    date_end: '2023-12-11'
   - area: NSF Advanced Quantitative Methods in STEM Ed Fellow
     institution: UChicago and Michigan State University
-    date_start: '2021'
-    date_end: '2023'
+    date_start: '2021-06-01'
+    date_end: '2023-08-01'
 
 work:
   - position: Professor of Mathematics 
     company_name: Texas State University
     company_url: 'https://txstate.edu'
     company_logo: ''
-    date_start: '2016'
-    date_end: 'present'
+    date_start: '2016-09-01'
+    date_end: ''
     summary: |
       Leading research projects on natural language processing and mathematical writing; improving instruction in proof-based courses; analyzing group-work in proof-based courses
   - position: Postdoctoral Research Fellow
     company_name: Teachers Development Group
     company_url: 'https://www.teachersdg.org'
     company_logo: ''
-    date_start: 2015
-    date_end: 2016
+    date_start: 2015-09-01
+    date_end: 2016-08-01
     summary: |
       Led professional development efficacy evaluation efforts
 
