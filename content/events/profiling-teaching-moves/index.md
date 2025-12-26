@@ -9,7 +9,7 @@ links:
     name: Watch Talk
     url: https://youtu.be/ECvIRGGpkvQ
 image:
-  filename: "media/profiling-teaching-moves.jpg"
+  filename: "/static/uploads/profiling-teaching-moves.jpg"
   preview_only: true
 ---
 
