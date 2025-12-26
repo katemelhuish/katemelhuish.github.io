@@ -1,26 +1,29 @@
-/* 1. Reduce vertical padding of the section that contains "Recent Publications" */
-section[id*="publications"],
-section[id*="publication"] {
-  padding-top: 1.5rem !important;
-  padding-bottom: 1.5rem !important;
+
+
+/* === Global heading & section spacing tweaks === */
+
+/* Less space under big headings like "Recent Publications" */
+h1 {
+  margin-top: 1.5rem !important;      /* in case there's extra above */
+  margin-bottom: 0.75rem !important;  /* pull next content closer */
 }
 
-/* 2. Reduce space under the "Recent Publications" heading */
-section[id*="publications"] h1,
-section[id*="publication"] h1 {
+/* Remove extra top margin on the first block after a heading */
+h1 + p,
+h1 + div,
+h1 + ul,
+h1 + section {
   margin-top: 0 !important;
-  margin-bottom: 0.75rem !important;
 }
 
-/* 3. Tighten spacing between individual publication entries */
-section[id*="publications"] li,
-section[id*="publication"] li {
+/* Tighten spacing between items in publication / post lists */
+li,
+.stream-item {
   margin-bottom: 0.5rem !important;
 }
 
-/* 4. Remove extra gap inside each publication (the text + CITE/DOI row) */
-section[id*="publications"] p,
-section[id*="publication"] p {
-  margin-top: 0.1rem !important;
-  margin-bottom: 0.1rem !important;
+/* Extra safety for the “CITE / DOI” bit under each pub */
+li p {
+  margin-top: 0.15rem !important;
+  margin-bottom: 0.15rem !important;
 }
