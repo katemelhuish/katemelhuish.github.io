@@ -1,3 +1,9 @@
-body {
-  outline: 3px solid red;
+/* test override */
+body::before {
+  content: "✔ custom.css is loaded";
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 9999;
+  color: red;
 }
