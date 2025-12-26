@@ -4,9 +4,11 @@ date: ''
 links:
   - type: site
     title: NSF Award
+    name: NSF Award
     url: https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2141925&HistoricalAwards=false
   - type: site
     title: Textbook
+    name: Textbook
     url: https://zenodo.org/records/17868047
 tags:
   - Proof
