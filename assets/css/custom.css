@@ -26,3 +26,28 @@
   padding-top: 0.25rem !important;
   padding-bottom: 0.25rem !important;
 }
+
+
+
+/* ===== GLOBAL VERTICAL SPACING TWEAKS ===== */
+
+/* Tailwind "space-y-*" classes (big vertical gaps between stacked items) */
+[class*="space-y-"] > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 0.75rem !important;   /* try 0.5rem or 0.25rem if you want it tighter */
+}
+
+/* Tailwind "gap-y-*" classes on flex/grid containers */
+[class*="gap-y-"],
+[class*="gap-y-"] > * {
+  row-gap: 0.75rem !important;
+  gap: 0.75rem !important;
+}
+
+/* Also reduce any generic gap that might be set */
+[class*="view-"],
+[class*="stream"],
+[class*="citation"] {
+  gap: 0.75rem !important;
+  row-gap: 0.75rem !important;
+}
+
