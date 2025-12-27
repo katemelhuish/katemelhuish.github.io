@@ -5,8 +5,7 @@ layout: page
 summary: "Utilization-focused, mixed-methods evaluation for STEM education grants (NSF/IES)."
 ---
 
-I provide **independent, utilization-focused evaluation** for STEM education research and development projects. My work emphasizes **rigor, right-sizing**, and actionable insights that support continuous improvement and agency-aligned reporting. I bring advanced expertise in **measurement, psychometrics (CTT/IRT), regression-based models, and causal inference**.
-
+I partner with PIs to design credible, right-sized evaluation that supports continuous improvement and agency-aligned reporting. I bring advanced expertise in measurement, regression based-models, and causal inference.
 ---
 
 ## Services at a Glance
