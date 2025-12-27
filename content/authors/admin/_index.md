@@ -54,7 +54,7 @@ education:
     date_end: '2023-08-01'
 
   - area: PhD Mathematics Education
-    institution: Texas State University
+    institution: Portland State University
     date_start: '2010-08-01'
     date_end: '2015-07-01'
     summary: |
