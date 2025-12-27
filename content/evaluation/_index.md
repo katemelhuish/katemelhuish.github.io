@@ -1,7 +1,8 @@
 ---
 title: "External Evaluation"
 type: landing
-layout: landing
+date: 2024-01-01
+draft: false
 
 sections:
   - block: markdown
@@ -26,6 +27,7 @@ sections:
             **Proposal:** Evaluation plan and logic model for the grant.  
             **Years 1–N:** Process-focused evaluation and annual reports.  
             **Final year:** Summative report with key findings and recommendations.
+
         - name: "Instrument Validation"
           icon: ruler
           icon_pack: fas
@@ -33,6 +35,7 @@ sections:
             **Proposal:** Plan for collecting validity evidence and testing.  
             **Years 1–N:** Guidance on data collection and psychometric analysis.  
             **Final year:** Validity argument report plus overall evaluation summary.
+
         - name: "Intervention Efficacy"
           icon: chart-line
           icon_pack: fas
