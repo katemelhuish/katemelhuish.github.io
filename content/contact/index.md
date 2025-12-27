@@ -1,6 +1,6 @@
 ---
 title: "Get in touch"
-type: landing
+type: "landing"
 ---
 
 
