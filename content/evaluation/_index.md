@@ -1,11 +1,10 @@
 ---
 title: "External Evaluation"
-type: page
+type: landing
 ---
 
 I partner with PIs to design credible, right-sized evaluation that supports continuous improvement and agency-aligned reporting. I bring advanced expertise in measurement, regression-based models, and causal inference.
 
----
 
 ## Services at a Glance
 
@@ -46,8 +45,6 @@ I partner with PIs to design credible, right-sized evaluation that supports cont
 
 </div>
 
----
-
 ## Core Capabilities
 
 - Logic models and measurable outcome design
@@ -57,14 +54,11 @@ I partner with PIs to design credible, right-sized evaluation that supports cont
 - Integrated displays combining qualitative and quantitative evidence
 - Annual and final evaluation reports aligned with NSF and IES guidance
 
----
-
 <figure style="text-align:center;">
   <img src="logic.jpg" alt="Logic model for higher-education course innovation" width="800">
   <figcaption><em>Logic model showing alignment from course redesign to student and institutional outcomes.</em></figcaption>
 </figure>
 
----
 
 **Looking for an external evaluator?**  
 [Request a consultation](/contact/) or email **melhuish@txstate.edu**.
