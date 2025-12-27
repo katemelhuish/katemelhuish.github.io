@@ -1,6 +1,6 @@
 ---
 title: 'External Evaluation'
-type: landing
+type: page
 
 design:
   # Section spacing
