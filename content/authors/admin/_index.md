@@ -76,14 +76,14 @@ education:
      
 
 work:
-  - position: Professor of Mathematics 
+  - position: Professor of Mathematics, Assistant Chair (previoulsy Associate and Assistant Professor)
     company_name: Texas State University
     company_url: 'https://txstate.edu'
     company_logo: ''
     date_start: '2016-09-01'
     date_end: ''
     summary: |
-      Leading research projects on natural language processing and mathematical writing; improving instruction in proof-based courses; analyzing group-work in proof-based courses
+      Designed advanced quantitative methods course; provides quantitative support on projects; leads research projects on proof-based courses related to instruction, curriculum, tasks, instrument development, and analyzing conceptual understanding of advanced mathematics concepts.
   - position: Postdoctoral Research Fellow
     company_name: Teachers Development Group
     company_url: 'https://www.teachersdg.org'
