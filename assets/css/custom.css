@@ -1,29 +1,28 @@
+/* --- Tighten vertical spacing for citation-style lists (like publications) --- */
 
-
-/* === Global heading & section spacing tweaks === */
-
-/* Less space under big headings like "Recent Publications" */
-h1 {
-  margin-top: 1.5rem !important;      /* in case there's extra above */
-  margin-bottom: 0.75rem !important;  /* pull next content closer */
+/* Citation view wrapper in HugoBlox */
+.view-citation {
+  /* remove any extra padding if present */
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
 }
 
-/* Remove extra top margin on the first block after a heading */
-h1 + p,
-h1 + div,
-h1 + ul,
-h1 + section {
-  margin-top: 0 !important;
+/* Tailwind "space-y" utilities that create big gaps between items */
+.view-citation.space-y-12 > :not([hidden]) ~ :not([hidden]),
+.view-citation.space-y-10 > :not([hidden]) ~ :not([hidden]),
+.view-citation.space-y-8  > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 0.75rem !important;   /* tighten from ~2–3rem to <1rem */
 }
 
-/* Tighten spacing between items in publication / post lists */
-li,
-.stream-item {
-  margin-bottom: 0.5rem !important;
+/* Also catch cases where the space-y-* is on an inner div */
+.view-citation .space-y-12 > :not([hidden]) ~ :not([hidden]),
+.view-citation .space-y-10 > :not([hidden]) ~ :not([hidden]),
+.view-citation .space-y-8  > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 0.75rem !important;
 }
 
-/* Extra safety for the “CITE / DOI” bit under each pub */
-li p {
-  margin-top: 0.15rem !important;
-  margin-bottom: 0.15rem !important;
+/* Slightly tighten inside each publication entry */
+.view-citation .stream-item {
+  padding-top: 0.25rem !important;
+  padding-bottom: 0.25rem !important;
 }
