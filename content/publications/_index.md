@@ -5,21 +5,19 @@ type: landing
 sections:
   - block: collection
     content:
+      title: ""
       filters:
-        folders: [publications]
+        # Use the folder where your publication bundles live:
+        # if your items are in content/publication/, use [publication]
+        # if they are in content/publications/, keep [publications]
+        folders: [publication]
       count: 0
-      sort_by: "date"
+      sort_by: "Date"
       sort_ascending: false
-      view: "citation"        # citation-style list
-      show_image: true
-      show_summary: false
-      show_authors: true
-      show_abstract: true
-      show_publication: true
-      show_badges: false      # hides “No DOI Found” etc.
       search:
         enabled: true
     design:
-      view: "citation"
-      columns: '2'            # <-- max supported is '1' or '2'
+      # Use a card/grid layout that shows images + summaries
+      view: card
+      columns: '2'      # 1 or 2 columns; 2 gives a nice grid
 ---
