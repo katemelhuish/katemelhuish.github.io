@@ -1,6 +1,8 @@
 ---
 title: "Publications"
 type: landing
+view: "citation"
+
 sections:
   - block: collection
     content:
