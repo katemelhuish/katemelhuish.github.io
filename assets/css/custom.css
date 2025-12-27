@@ -62,3 +62,24 @@
   font-size: 0.82rem;
   color: #6b7280;
 }
+
+
+/* Publication cards more compact */
+.citation {
+  padding: 0.5rem 0.75rem !important;
+  margin: 0.4rem 0 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.2 !important;
+}
+
+/* Title a bit smaller */
+.citation .article-title a {
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+}
+
+/* Multi-author text slightly reduced */
+.pub-authors {
+  font-size: 0.85rem !important;
+}
+
