@@ -1,11 +1,6 @@
 ---
 title: 'External Evaluation'
-type: page
-
-design:
-  # Section spacing
-  spacing: '5rem'
-
+type: landing
 ---
 
 I partner with PIs to design credible, right-sized evaluation that supports continuous improvement and agency-aligned reporting. I bring advanced expertise in measurement, regression based-models, and causal inference.
