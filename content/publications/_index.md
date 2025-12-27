@@ -11,7 +11,7 @@ sections:
       sort_by: "date"
       sort_ascending: false
       view: "citation"        # citation-style list
-      show_image: false
+      show_image: true
       show_summary: false
       show_authors: true
       show_publication: true
