@@ -1,6 +1,10 @@
 ---
-title: 'External Evaluation'
-type: landing
+title: "External Evaluation"
+type: "landing"
+---
+
+I partner with PIs to design credible, right-sized evaluation that supports continuous improvement and agency-aligned reporting. I bring advanced expertise in measurement, regression-based models, and causal inference.
+
 ---
 
 ## Services at a Glance
@@ -59,7 +63,6 @@ type: landing
   <img src="logic.jpg" alt="Logic model for higher-education course innovation" width="800">
   <figcaption><em>Logic model showing alignment from course redesign to student and institutional outcomes.</em></figcaption>
 </figure>
-
 
 ---
 
