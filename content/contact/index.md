@@ -8,8 +8,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: "I’m happy to connect about research, collaborations, and professional opportunities. Send a message"
-      text: |
+      text: "I’m happy to connect about research, collaborations, and professional opportunities."|
         <style>
           form.contact-form input,
           form.contact-form textarea {
