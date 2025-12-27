@@ -1,7 +1,6 @@
 ---
 title: "Get in touch"
-type: page
-date: ""
+type: landing
 ---
 
 
