@@ -10,7 +10,7 @@ sections:
         # Use the folder where your publication bundles live:
         # if your items are in content/publication/, use [publication]
         # if they are in content/publications/, keep [publications]
-        folders: [publication]
+        folders: [publications]
       count: 0
       sort_by: "Date"
       sort_ascending: false
