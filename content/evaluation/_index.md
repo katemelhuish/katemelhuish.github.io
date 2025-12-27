@@ -60,18 +60,11 @@ I partner with PIs to design credible, right-sized evaluation that supports cont
 
 ---
 
-## Example Evaluation Focus
+<figure style="text-align:center;">
+  <img src="logic.jpg" alt="Logic model for higher-education course innovation" width="800">
+  <figcaption><em>Logic model showing alignment from course redesign to student and institutional outcomes.</em></figcaption>
+</figure>
 
-<!-- Optional clean, simple graphic – see SVG example below -->
-<div class="logic-model-wrapper">
-  <h3>From Theory of Change to Evidence</h3>
-  <p class="logic-model-caption">
-    I work with teams to align <em>activities</em>, <em>measures</em>, and <em>claims</em> so that evaluation products
-    are both credible and useful to funders and project teams.
-  </p>
-
-  <!-- you can paste the SVG from the next snippet here -->
-</div>
 
 ---
 
