@@ -14,6 +14,7 @@ sections:
       show_image: true
       show_summary: false
       show_authors: true
+      show_abstract: true
       show_publication: true
       show_badges: false      # hides “No DOI Found” etc.
       search:
