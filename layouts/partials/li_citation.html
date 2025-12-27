@@ -3,10 +3,13 @@
 
 <span class="hb-publication">
 
-  {{/* Authors */}}
-  {{ with $p.Params.authors }}
-    {{- delimit . ", " -}}
-  {{ end }}
+{{ if .Params.authors }}
+  <div class="pub-authors">
+    {{ range $index, $author := .Params.authors }}
+      {{ if $index }}, {{ end }}{{ $author }}
+    {{ end }}
+  </div>
+{{ end }}
 
   {{/* Year */}}
   {{ with $p.Date }}
