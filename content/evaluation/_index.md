@@ -7,9 +7,6 @@ draft: false
 sections:
   - block: markdown
     id: intro
-    design:
-      spacing:
-        padding: [1rem, 0, 1rem, 0]  # top, right, bottom, lef
     content:
       title: "External Evaluation Services"
       text: >
@@ -18,12 +15,10 @@ sections:
         expertise in measurement, regression-based models, and causal inference.
     design:
       spacing:
-        padding: ['10px', '0', '10px', '0']
-    
+        padding: ['0', '0', '0', '0']
   - block: markdown
     id: logic-model
     content:
-      title: "Sample Logic Model"
       text: |
         <figure style="text-align:center;">
           <img src="logic.jpg" alt="Logic model for higher-education course innovation" width="800">
@@ -31,10 +26,12 @@ sections:
         </figure>
     design:
       spacing:
-        padding: ['10px', '0', '10px', '0']
-    
+        padding: ['0', '0', '0', '0']
   - block: features
     id: services
+    design:
+      spacing:
+        padding: ['0', '0', '0', '0']
     content:
       title: "Services at a Glance"
       text: ""
@@ -46,7 +43,6 @@ sections:
             **Proposal:** Evaluation plan and logic model for the grant.  
             **Years 1–N:** Process-focused evaluation and annual reports.  
             **Final year:** Summative report with key findings and recommendations.
-
         - name: "Instrument Validation"
           icon: ruler
           icon_pack: fas
@@ -54,7 +50,6 @@ sections:
             **Proposal:** Plan for collecting validity evidence and testing.  
             **Years 1–N:** Guidance on data collection and psychometric analysis.  
             **Final year:** Validity argument report plus overall evaluation summary.
-
         - name: "Intervention Efficacy"
           icon: chart-line
           icon_pack: fas
@@ -62,9 +57,7 @@ sections:
             **Proposal:** Efficacy design and data collection plan.  
             **Years 1–N:** Fidelity monitoring, surveys/assessments, and analyses.  
             **Final year:** Efficacy report and summative project evaluation.
-    design:
-      spacing:
-        padding: ['10px', '0', '10px', '0']
+
     
   - block: markdown
     id: capabilities
