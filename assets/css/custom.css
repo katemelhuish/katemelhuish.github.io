@@ -1,53 +1,41 @@
-/* --- Tighten vertical spacing for citation-style lists (like publications) --- */
+/* === Test that custom.css is loading AND parsed correctly === */
 
-/* Citation view wrapper in HugoBlox */
-.view-citation {
-  /* remove any extra padding if present */
-  padding-top: 0.5rem !important;
-  padding-bottom: 0.5rem !important;
+body::before {
+  content: "✔ custom.css OK";
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 9999;
+  font-size: 0.9rem;
+  background: #fff;
+  padding: 0.2rem 0.4rem;
+  border: 1px solid #000;
 }
 
-/* Tailwind "space-y" utilities that create big gaps between items */
-.view-citation.space-y-12 > :not([hidden]) ~ :not([hidden]),
-.view-citation.space-y-10 > :not([hidden]) ~ :not([hidden]),
-.view-citation.space-y-8  > :not([hidden]) ~ :not([hidden]) {
-  margin-top: 0.75rem !important;   /* tighten from ~2–3rem to <1rem */
+/* === Global heading & section spacing tweaks === */
+
+/* Pull big headings (like “Recent Publications”) closer to following content */
+h1 {
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.75rem !important;
 }
 
-/* Also catch cases where the space-y-* is on an inner div */
-.view-citation .space-y-12 > :not([hidden]) ~ :not([hidden]),
-.view-citation .space-y-10 > :not([hidden]) ~ :not([hidden]),
-.view-citation .space-y-8  > :not([hidden]) ~ :not([hidden]) {
+/* Don’t let the first element after an h1 add extra top gap */
+h1 + * {
+  margin-top: 0 !important;
+}
+
+/* Tighten spacing between list items (publications are usually <li>) */
+ul, ol {
+  margin-top: 0.25rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+li {
+  margin-bottom: 0.5rem !important;
+}
+
+/* Tailwind “space-y-*” utilities that add vertical gaps */
+[class*="space-y-"] > :not([hidden]) ~ :not([hidden]) {
   margin-top: 0.75rem !important;
 }
-
-/* Slightly tighten inside each publication entry */
-.view-citation .stream-item {
-  padding-top: 0.25rem !important;
-  padding-bottom: 0.25rem !important;
-}
-
-
-
-/* ===== GLOBAL VERTICAL SPACING TWEAKS ===== */
-
-/* Tailwind "space-y-*" classes (big vertical gaps between stacked items) */
-[class*="space-y-"] > :not([hidden]) ~ :not([hidden]) {
-  margin-top: 0.75rem !important;   /* try 0.5rem or 0.25rem if you want it tighter */
-}
-
-/* Tailwind "gap-y-*" classes on flex/grid containers */
-[class*="gap-y-"],
-[class*="gap-y-"] > * {
-  row-gap: 0.75rem !important;
-  gap: 0.75rem !important;
-}
-
-/* Also reduce any generic gap that might be set */
-[class*="view-"],
-[class*="stream"],
-[class*="citation"] {
-  gap: 0.75rem !important;
-  row-gap: 0.75rem !important;
-}
-
