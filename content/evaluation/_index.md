@@ -7,6 +7,9 @@ draft: false
 sections:
   - block: markdown
     id: intro
+    design:
+      spacing:
+        padding: [1rem, 0, 1rem, 0]  # top, right, bottom, lef
     content:
       title: "External Evaluation Services"
       text: >
