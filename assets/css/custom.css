@@ -49,3 +49,16 @@
   color: #4b5563;
   margin-bottom: 1rem;
 }
+
+.service-card h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  margin-bottom: 0.15rem;
+}
+
+.service-tagline {
+  font-size: 0.82rem;
+  color: #6b7280;
+}
