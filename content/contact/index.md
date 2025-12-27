@@ -1,17 +1,14 @@
 ---
 title: "Contact"
 type: page
-date: 2024-01-01
-draft: false
 ---
 
 I’m happy to connect about research, collaborations, and professional opportunities.
 
----
 **Email:** <melhuish@txstate.edu>  
 **Office:** Department of Mathematics, Texas State University  
 San Marcos, TX, USA
----
+
 If you prefer, you can also send me a message using the form below:
 
 <style>
@@ -62,4 +59,3 @@ If you prefer, you can also send me a message using the form below:
 
   <button type="submit">Send message</button>
 </form>
----
