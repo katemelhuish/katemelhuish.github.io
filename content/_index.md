@@ -1,8 +1,10 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: "External Evaluation for STEM Education Grants (NSF)"
+summary: "External evaluation and advirsory roles for NSF STEM education projects, offering mixed-methods evaluation and psychometric expertise."
 date: 2022-10-24
 type: landing
+
 
 sections:
   - block: resume-biography-3
