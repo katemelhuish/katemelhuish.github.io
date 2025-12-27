@@ -11,7 +11,6 @@ I’m happy to connect about research, collaborations, and professional opportun
 **Office:** Department of Mathematics, Texas State University  
 San Marcos, TX, USA
 
----
 
 If you prefer, you can also send me a message using the form below:
 
