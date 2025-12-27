@@ -20,5 +20,5 @@ sections:
         enabled: true
     design:
       view: "citation"
-      columns: '3'            # <-- max supported is '1' or '2'
+      columns: '2'            # <-- max supported is '1' or '2'
 ---
