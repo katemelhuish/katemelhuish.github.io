@@ -6,21 +6,9 @@ design:
     padding: ['0', '0', '0', '0']
 
 sections:
-  - block: hero
-    content:
-      title: "Get in touch"
-      text: |
-        I’m happy to connect about research, collaborations, and professional opportunities.
-
-        **Email:** <melhuish@txstate.edu>  
-        **Office:** Department of Mathematics, Texas State University  
-        San Marcos, TX, USA
-    design:
-      align: left
-
   - block: markdown
     content:
-      title: "Send a message"
+      title: "I’m happy to connect about research, collaborations, and professional opportunities. Send a message"
       text: |
         <style>
           form.contact-form input,
