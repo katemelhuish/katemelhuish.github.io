@@ -52,5 +52,5 @@ sections:
     design:
       view: citation
       spacing:
-        padding: ["8px", "0", "6px", "0"]
+        padding: [0, 0, 0, 0]
 ---
