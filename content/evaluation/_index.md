@@ -16,6 +16,9 @@ sections:
         I partner with PIs to design credible, right-sized evaluation that supports
         continuous improvement and agency-aligned reporting. I bring advanced
         expertise in measurement, regression-based models, and causal inference.
+    design:
+      spacing:
+        padding: ['10px', '0', '10px', '0']
     
   - block: markdown
     id: logic-model
@@ -26,7 +29,10 @@ sections:
           <img src="logic.jpg" alt="Logic model for higher-education course innovation" width="800">
           <figcaption><em>Logic model showing alignment from course redesign to student and institutional outcomes.</em></figcaption>
         </figure>
-        
+    design:
+      spacing:
+        padding: ['10px', '0', '10px', '0']
+    
   - block: features
     id: services
     content:
@@ -56,7 +62,10 @@ sections:
             **Proposal:** Efficacy design and data collection plan.  
             **Years 1–N:** Fidelity monitoring, surveys/assessments, and analyses.  
             **Final year:** Efficacy report and summative project evaluation.
-
+    design:
+      spacing:
+        padding: ['10px', '0', '10px', '0']
+    
   - block: markdown
     id: capabilities
     content:
@@ -68,7 +77,10 @@ sections:
         - Survey and interview protocols; qualitative coding with audit trails  
         - Integrated displays combining qualitative and quantitative evidence  
         - Annual and final evaluation reports aligned with NSF and IES guidance  
-
+    design:
+      spacing:
+        padding: ['10px', '0', '10px', '0']
+    
   - block: markdown
     id: contact
     content:
