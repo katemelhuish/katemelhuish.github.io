@@ -16,7 +16,6 @@ sections:
         url: uploads/resume.pdf
       headings:
         about: ''
-        education: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
