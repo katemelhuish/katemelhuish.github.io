@@ -1,41 +1,51 @@
-/* === Test that custom.css is loading AND parsed correctly === */
-
-body::before {
-  content: "✔ custom.css OK";
-  position: fixed;
-  top: 0.75rem;
-  left: 0.75rem;
-  z-index: 9999;
-  font-size: 0.9rem;
-  background: #fff;
-  padding: 0.2rem 0.4rem;
-  border: 1px solid #000;
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1.75rem;
+  margin: 2rem 0;
 }
 
-/* === Global heading & section spacing tweaks === */
-
-/* Pull big headings (like “Recent Publications”) closer to following content */
-h1 {
-  margin-top: 1.5rem !important;
-  margin-bottom: 0.75rem !important;
+.service-card {
+  background: #f9fafb;
+  border-radius: 1rem;
+  padding: 1.5rem 1.75rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.04);
 }
 
-/* Don’t let the first element after an h1 add extra top gap */
-h1 + * {
-  margin-top: 0 !important;
+.service-card h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
 }
 
-/* Tighten spacing between list items (publications are usually <li>) */
-ul, ol {
-  margin-top: 0.25rem !important;
-  margin-bottom: 0.25rem !important;
+.service-tagline {
+  margin: 0 0 0.75rem;
+  font-size: 0.95rem;
+  color: #6b7280;
 }
 
-li {
-  margin-bottom: 0.5rem !important;
+.service-card ul {
+  padding-left: 1.1rem;
+  margin: 0;
+  font-size: 0.95rem;
 }
 
-/* Tailwind “space-y-*” utilities that add vertical gaps */
-[class*="space-y-"] > :not([hidden]) ~ :not([hidden]) {
-  margin-top: 0.75rem !important;
+.service-icon {
+  font-size: 1.75rem;
+  line-height: 1;
+  margin-bottom: 0.75rem;
+}
+
+.logic-model-wrapper {
+  margin: 2.5rem 0 1.5rem;
+}
+
+.logic-model-wrapper h3 {
+  margin-bottom: 0.4rem;
+}
+
+.logic-model-caption {
+  font-size: 0.95rem;
+  color: #4b5563;
+  margin-bottom: 1rem;
 }
