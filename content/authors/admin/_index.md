@@ -127,7 +127,7 @@ awards:
 
 ---
 
-Kathleen Melhuish is a Professor in the Mathematics Department at Texas State University. She specializes in research in advanced undergraduate mathematics education. Her methodological expertise spans quantitative and qualitative methods.
+Kathleen Melhuish is a Professor in the Mathematics Department at Texas State University. They specialize in research in advanced undergraduate mathematics education. Their methodological expertise spans quantitative and qualitative methods.
 
 ---
 
