@@ -16,7 +16,8 @@ sections:
         I partner with PIs to design credible, right-sized evaluation that supports
         continuous improvement and agency-aligned reporting. I bring advanced
         expertise in measurement, regression-based models, and causal inference.
- - block: markdown
+    
+  - block: markdown
     id: logic-model
     content:
       title: "Sample Logic Model"
@@ -25,6 +26,7 @@ sections:
           <img src="logic.jpg" alt="Logic model for higher-education course innovation" width="800">
           <figcaption><em>Logic model showing alignment from course redesign to student and institutional outcomes.</em></figcaption>
         </figure>
+        
   - block: features
     id: services
     content:
