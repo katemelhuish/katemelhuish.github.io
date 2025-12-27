@@ -42,6 +42,17 @@ profiles:
     url: https://orcid.org/0000-0001-7595-7593
 
 education:
+
+  - area: Data Science Certification
+    institution: Cornell
+    date_start: '2023-08-01'
+    date_end: '2023-12-11'
+    
+  - area: NSF Advanced Quant Methods Fellow
+    institution: UChicago and MSU
+    date_start: '2021-06-01'
+    date_end: '2023-08-01'
+
   - area: PhD Mathematics Education
     institution: Texas State University
     date_start: '2010-08-01'
@@ -63,14 +74,6 @@ education:
     date_end: '2007-12-31'
     summary: |
      
-  - area: Data Science Certification
-    institution: Cornell
-    date_start: '2023-08-01'
-    date_end: '2023-12-11'
-  - area: NSF Advanced Quant Methods Fellow
-    institution: UChicago and MSU
-    date_start: '2021-06-01'
-    date_end: '2023-08-01'
 
 work:
   - position: Professor of Mathematics 
