@@ -1,7 +1,7 @@
 ---
 title: "Get in touch"
 type: page
-date: 2025-01-01
+date: ""
 ---
 
 
