@@ -1,3 +1,20 @@
+<style>
+.page-header h1 {
+  font-size: 2rem !important;   /* reduce headline */
+  line-height: 1.2 !important;
+}
+
+.page-header {
+  margin-bottom: 1rem !important; /* tighten spacing below title */
+}
+
+.page-header .article-header p {
+  font-size: 1.05rem !important; /* optional intro text size adjust */
+  line-height: 1.45 !important;
+  max-width: 55ch;
+}
+</style>
+
 ---
 title: "External Evaluation Services"
 type: page
