@@ -22,18 +22,19 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Kathleen (Kate) Melhuish, Ph.D.'
+    description: 'External evaluator for NSF STEM education grants, specializing in efficacy, mixed-methods evaluation, and psychometrics.'
+    twitter: ''  # Add your Twitter/X handle here without the @ if you use one
   analytics:
-    google_analytics: ''
+    google_analytics: ''  # e.g. G-XXXXXXX
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: ''  # Add Google Search Console verification code here if/when you set it up
     baidu: ''
+
 
 # Site header
 header:
