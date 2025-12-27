@@ -1,6 +1,8 @@
 ---
 title: "Contact"
 type: landing
+date: 2024-01-01
+draft: false
 
 
 I’m happy to connect about research, collaborations, and professional opportunities.
