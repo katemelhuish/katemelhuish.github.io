@@ -1,27 +1,11 @@
-<style>
-.page-header h1 {
-  font-size: 2rem !important;   /* reduce headline */
-  line-height: 1.2 !important;
-}
+title: 'External Evaluation Services'
+date: 2024-05-19
+type: landing
 
-.page-header {
-  margin-bottom: 1rem !important; /* tighten spacing below title */
-}
-
-.page-header .article-header p {
-  font-size: 1.05rem !important; /* optional intro text size adjust */
-  line-height: 1.45 !important;
-  max-width: 55ch;
-}
-</style>
-
+design:
+  # Section spacing
+  spacing: '5rem'
 ---
-title: "External Evaluation Services"
-type: page
-layout: page
-summary: "Utilization-focused, mixed-methods evaluation for STEM education grants (NSF/IES)."
----
-
 I partner with PIs to design credible, right-sized evaluation that supports continuous improvement and agency-aligned reporting. I bring advanced expertise in measurement, regression based-models, and causal inference.
 ---
 
