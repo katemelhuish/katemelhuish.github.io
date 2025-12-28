@@ -1,38 +1,31 @@
 ---
-# Leave the homepage title empty to use the site title
 title: "External Evaluation for STEM Education Grants (NSF)"
-summary: "External evaluation and advirsory roles for NSF STEM education projects, offering mixed-methods evaluation and psychometric expertise."
-date: 2022-10-24
 type: landing
-
+summary: "External evaluation and advisory roles for NSF STEM education projects, offering mixed-methods evaluation and psychometric expertise."
+date: 2022-10-24
 
 sections:
-  - block: resume-biography-3
+  - block: hero
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-     # headings:
-        #about: ''
+      title: "External Evaluation for STEM Education Grants (NSF)"
+      text: >
+        I partner with PIs to design credible, right-sized evaluation that supports
+        continuous improvement and agency-aligned reporting. I bring advanced expertise
+        in measurement, regression-based models, and causal inference.
+      primary_action:
+        text: "Download CV"
+        url: "uploads/resume.pdf"
+      # optional: show your role / location as small text
+      # subtitle: "External evaluator • Mathematics Education • Texas State University"
     design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
-      # Avatar customization
-      avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+      align: left
+      # optional: tweak spacing
       spacing:
-        # top, right, bottom, left
-        padding: ["8px", "0", "8px", "0"]
-
+        padding: ["4rem", "0", "2rem", "0"]
   - block: collection
     id: talks
     content:
-      title: Talks
+      title: "Talks"
       filters:
         folders:
           - events
@@ -40,12 +33,11 @@ sections:
       view: article-grid
       columns: "2"
       spacing:
-        padding: ["8px", "0", "8px", "0"]
-    
+        padding: ["2rem", "0", "2rem", "0"]
   - block: collection
     content:
-      title: Recent Publications
-      text: ''
+      title: "Recent Publications"
+      text: ""
       filters:
         folders:
           - publications
