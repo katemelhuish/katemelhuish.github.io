@@ -16,7 +16,6 @@ authors:
 - Aris Winger
 author_notes: []
 date: '2025-12-01'
-publishDate: ''
 publication_types:
 - article-journal
 publication: '*Educational Studies in Mathematics*'
@@ -47,4 +46,3 @@ hugoblox:
     doi: ''
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
