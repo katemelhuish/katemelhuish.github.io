@@ -20,5 +20,5 @@ sections:
     design:
       # Use a card/grid layout that shows images + summaries
       view: card
-      columns: '2'      # 1 or 2 columns; 2 gives a nice grid
+      columns: 3      # 1 or 2 columns; 2 gives a nice grid
 ---
