@@ -1,19 +1,19 @@
 ---
 title: Diverse Storylines of Entering the Mathematics Professoriate 
 authors:
--Kathleen Melhuish
--Lino Guajardo
--Kristen Lew
--Paul C. Dawkins
--Alexander Diaz-Lopez
--Rebecca Garcia
--Pamela E. Harris
--Edna Jones
--Priyam Patel
--Kyeong Hah Roh
--Shanise Walker
--Dwight Anderson Williams II
--Aris Winger
+- Kathleen Melhuish
+- Lino Guajardo
+- Kristen Lew
+- Paul C. Dawkins
+- Alexander Diaz-Lopez
+- Rebecca Garcia
+- Pamela E. Harris
+- Edna Jones
+- Priyam Patel
+- Kyeong Hah Roh
+- Shanise Walker
+- Dwight Anderson Williams II
+- Aris Winger
 author_notes: []
 date: '2026-01-01'
 publishDate: ''
