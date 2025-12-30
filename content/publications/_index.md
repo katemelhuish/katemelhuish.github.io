@@ -4,6 +4,7 @@ type: landing
 
 sections:
   - block: collection
+    id: publications-grid    # ← add this line
     content:
       title: ""
       filters:
