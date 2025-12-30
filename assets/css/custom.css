@@ -1,23 +1,31 @@
-/* Make the Publications sidebar list 3 columns on large screens */
-.hb-sidebar-container .hb-sidebar-list {
-  column-count: 3;
-  column-gap: 1.5rem;
+/* Widen the publications grid and use multiple columns */
+#publications-grid .container {
+  max-width: 1200px;              /* wider than 65ch */
 }
 
-.hb-sidebar-container .hb-sidebar-list li {
-  break-inside: avoid;
-}
-
-/* On tablets: 2 columns */
-@media (max-width: 992px) {
-  .hb-sidebar-container .hb-sidebar-list {
-    column-count: 2;
+/* Desktop: 3 columns */
+@media (min-width: 1024px) {
+  #publications-grid .container {
+    display: grid;                /* already grid, but safe */
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.75rem;
   }
 }
 
-/* On phones: 1 column */
-@media (max-width: 640px) {
-  .hb-sidebar-container .hb-sidebar-list {
-    column-count: 1;
+/* Tablet: 2 columns */
+@media (min-width: 640px) and (max-width: 1023px) {
+  #publications-grid .container {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+/* Mobile: 1 column (explicit, though this is basically what you have now) */
+@media (max-width: 639px) {
+  #publications-grid .container {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
   }
 }
