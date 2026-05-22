@@ -24,6 +24,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install academic
 
+      - name: Delete old publication folders
+        run: |
+          find content/publications -mindepth 1 -maxdepth 1 -type d -exec rm -rf {} +
+
       - name: Convert BibTeX to Publication Pages
         run: |
           academic import --bibtex content/publications/publications.bib --publication-dir content/publications --overwrite
