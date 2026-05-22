@@ -11,9 +11,8 @@ sections:
       username: admin
       # Optional extra text under your bio card
       text: >
-        I partner with PIs to design credible, right-sized evaluation that
-        supports continuous improvement and agency-aligned reporting. I bring
-        advanced expertise in measurement, regression-based models, and causal
+        I partner with PIs to design useful and agency-aligned evaluaiton of projects. I bring
+        expertise in measurement, regression-based models, and causal
         inference.
       button:
         text: Download CV
