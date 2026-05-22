@@ -1,5 +1,8 @@
 name: Import Publications From BibTeX
 on:
+  push:
+    paths:
+      - 'content/publications/publications.bib'
   workflow_dispatch:
 
 permissions:
