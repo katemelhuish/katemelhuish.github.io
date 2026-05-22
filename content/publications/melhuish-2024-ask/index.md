@@ -1,6 +1,6 @@
 ---
-title: Why ask why? An analysis of teachers’ why-questions in elementary and middle
-  grade mathematics classrooms
+title: "Why ask why? An analysis of teachersâ\x80\x99 why-questions in elementary
+  and middle grade mathematics classrooms"
 
 # Authors
 # A YAML list of author names
@@ -19,7 +19,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.893119Z'
+publishDate: '2026-05-22T16:20:01.597969Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ publication_types:
 publication: '*Journal of Mathematics Teacher Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s10857-024-09644-4
 
 abstract: ''
 

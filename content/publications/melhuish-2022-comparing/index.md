@@ -17,7 +17,7 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:30.030915Z'
+publishDate: '2026-05-22T16:20:01.759559Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication_types:
 publication: '*PRIMUS*'
 publication_short: ''
 
-doi: ''
+doi: 10.1080/10511970.2020.1827325
 
 abstract: ''
 

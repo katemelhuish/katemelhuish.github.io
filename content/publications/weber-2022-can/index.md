@@ -18,7 +18,7 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.911127Z'
+publishDate: '2026-05-22T16:20:01.619320Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ publication_types:
 publication: '*Canadian Journal of Science, Mathematics and Technology Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s42330-022-00221-6
 
 abstract: ''
 

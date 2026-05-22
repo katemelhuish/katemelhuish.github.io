@@ -1,5 +1,6 @@
 ---
-title: Abstract algebra students’ evoked concept images for functions and homomorphisms
+title: "Abstract algebra studentsâ\x80\x99 evoked concept images for functions and
+  homomorphisms"
 
 # Authors
 # A YAML list of author names
@@ -18,7 +19,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.899170Z'
+publishDate: '2026-05-22T16:20:01.605133Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +30,7 @@ publication_types:
 publication: '*The Journal of Mathematical Behavior*'
 publication_short: ''
 
-doi: ''
+doi: 10.1016/j.jmathb.2020.100806
 
 abstract: ''
 

@@ -1,5 +1,6 @@
 ---
-title: Adapting the Proof of Lagrange’s Theorem into a Sequence of Group-Work Tasks
+title: "Adapting the Proof of Lagrangeâ\x80\x99s Theorem into a Sequence of Group-Work
+  Tasks"
 
 # Authors
 # A YAML list of author names
@@ -20,7 +21,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:30.018708Z'
+publishDate: '2026-05-22T16:20:01.745183Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,7 +32,7 @@ publication_types:
 publication: '*PRIMUS*'
 publication_short: ''
 
-doi: ''
+doi: 10.1080/10511970.2024.2361379
 
 abstract: ''
 

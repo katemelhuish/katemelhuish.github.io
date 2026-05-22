@@ -26,7 +26,7 @@ author_notes: []
 date: '2026-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.807821Z'
+publishDate: '2026-05-22T16:20:01.497200Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -37,7 +37,7 @@ publication_types:
 publication: '*Educational Studies in Mathematics*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s10649-025-10476-z
 
 abstract: ''
 

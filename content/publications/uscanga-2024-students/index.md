@@ -1,5 +1,5 @@
 ---
-title: Students’ techniques for approaching defining properties of functions
+title: "Studentsâ\x80\x99 techniques for approaching defining properties of functions"
 
 # Authors
 # A YAML list of author names
@@ -17,7 +17,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.929198Z'
+publishDate: '2026-05-22T16:20:01.640288Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication_types:
 publication: '*Educational Studies in Mathematics*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s10649-024-10344-2
 
 abstract: ''
 

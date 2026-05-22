@@ -18,7 +18,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.820370Z'
+publishDate: '2026-05-22T16:20:01.511919Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ publication_types:
 publication: '*International Journal of Research in Undergraduate Mathematics Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s40753-025-00290-6
 
 abstract: ''
 

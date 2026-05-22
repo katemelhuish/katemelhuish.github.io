@@ -16,7 +16,7 @@ author_notes: []
 date: '2019-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:30.012799Z'
+publishDate: '2026-05-22T16:20:01.737990Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +27,7 @@ publication_types:
 publication: '*Quantitative measures of mathematical knowledge*'
 publication_short: ''
 
-doi: ''
+doi: 10.4324/9780429486197-6
 
 abstract: ''
 

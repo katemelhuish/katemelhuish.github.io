@@ -18,7 +18,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.875000Z'
+publishDate: '2026-05-22T16:20:01.576697Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ publication_types:
 publication: '*International Journal of Mathematical Education in Science and Technology*'
 publication_short: ''
 
-doi: ''
+doi: 10.1080/0020739x.2019.1634223
 
 abstract: ''
 

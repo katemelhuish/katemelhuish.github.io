@@ -18,7 +18,7 @@ author_notes: []
 date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:30.006844Z'
+publishDate: '2026-05-22T16:20:01.731045Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ publication_types:
 publication: '*The Journal of Mathematical Behavior*'
 publication_short: ''
 
-doi: ''
+doi: 10.1016/j.jmathb.2023.101099
 
 abstract: ''
 

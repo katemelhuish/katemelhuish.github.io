@@ -20,7 +20,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.856552Z'
+publishDate: '2026-05-22T16:20:01.554810Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -31,7 +31,7 @@ publication_types:
 publication: '*Journal for Research in Mathematics Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.5951/jresematheduc-2020-0043
 
 abstract: ''
 

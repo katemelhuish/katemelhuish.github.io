@@ -18,7 +18,7 @@ author_notes: []
 date: '2019-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.953065Z'
+publishDate: '2026-05-22T16:20:01.668278Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ publication_types:
 publication: '*Mathematics Teacher Educator*'
 publication_short: ''
 
-doi: ''
+doi: 10.5951/mathteaceduc.7.2.0057
 
 abstract: ''
 

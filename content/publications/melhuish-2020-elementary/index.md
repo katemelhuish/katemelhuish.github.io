@@ -1,6 +1,6 @@
 ---
-title: 'Elementary school teachers’ noticing of essential mathematical reasoning forms:
-  Justification and generalization'
+title: "Elementary school teachersâ\x80\x99 noticing of essential mathematical reasoning
+  forms: Justification and generalization"
 
 # Authors
 # A YAML list of author names
@@ -18,7 +18,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-05-22T15:56:29.850591Z'
+publishDate: '2026-05-22T16:20:01.547749Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ publication_types:
 publication: '*Journal of Mathematics Teacher Education*'
 publication_short: ''
 
-doi: ''
+doi: 10.1007/s10857-018-9408-4
 
 abstract: ''
 
