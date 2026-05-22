@@ -57,10 +57,24 @@ jobs:
                   print("updated", f)
           PY
 
+      - name: Delete old publication folders
+        run: |
+          echo "Deleting all subfolders in content/publications"
+          find content/publications -mindepth 1 -maxdepth 1 -type d -print
+          find content/publications -mindepth 1 -maxdepth 1 -type d -exec git rm -r --ignore-unmatch {} +
+
+      - name: Convert BibTeX to Publication Pages
+        run: |
+          academic import --bibtex content/publications/publications.bib --publication-dir content/publications --overwrite
+     
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/publications
-          git commit -m "Imported publications from BibTeX" || echo "No changes to commit"
-          git push
+
+          echo "Git status before commit:"
+          git status --short
+
+          git add -A content/publications
+          git commit -m "Regenerate publications from BibTeX" || echo "No changes to commit"
+          git push origin HEAD:${{ github.ref_name }}
