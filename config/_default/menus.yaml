@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: /publications/
     weight: 40
-  - name: Math Ed Journal Information
+  - name: Math Ed Journal Rankings
     url: /mathedjournals
     weight: 40
   - name: Contact
