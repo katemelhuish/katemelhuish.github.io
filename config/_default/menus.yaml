@@ -16,7 +16,10 @@ main:
   - name: Publications
     url: /publications/
     weight: 40
+  - name: Math Ed Journal Information
+    url: /mathedjournals
+    weight: 40
   - name: Contact
     url: /contact/
-    weight: 50
+    weight: 60
 
