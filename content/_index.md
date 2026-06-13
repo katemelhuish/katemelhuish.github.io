@@ -11,9 +11,9 @@ sections:
       username: admin
       # Optional extra text under your bio card
       text: >
-        I partner with PIs to design useful and agency-aligned evaluaiton of projects. I bring
-        expertise in measurement, regression-based models, and causal
-        inference.
+        I partner with PIs to design useful and agency-aligned evaluation of projects. I bring
+        expertise in measurement, regression-based models, causal
+        inference, and research in undergraduate mathematics education.
       button:
         text: Download CV
         url: uploads/resume.pdf
