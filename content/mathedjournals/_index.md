@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
+title: MathEdJournalRankings
+permalink: /mathedjournals/
 ---
 
 <div class="table-wrap">
